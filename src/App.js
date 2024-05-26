@@ -658,9 +658,9 @@ function App() {
       <div className="div-block-1747">
         <div className="div-block-183198052210">
           <div className="text-block-9412881914">
-            Book a Live Demo
+            Fill Details to Get
             <br />
-            For&nbsp;Free !
+            Our&nbsp;Brouchure !
           </div>
           <div className="script-container-underlne" />
         </div>
@@ -761,8 +761,9 @@ function App() {
           <div className="text-block-94128923">Product of</div>
           <div className="html-embed-41921 w-embed">
             <img
-              src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/nxtwave-logo-white-color.svg"
+              src="https://eduzi.s3.amazonaws.com/Screenshot+2024-05-26+174209.png"
               alt=""
+              width="100px"
             />
           </div>
         </div>
@@ -795,7 +796,7 @@ function App() {
             <div className="div-block-183198052204">
               <div className="text-block-94128920">Course Duration</div>
               <div className="text-block-94128921">
-                5-8 months based on the Job Track you choose
+              6 months which includes - 3 months Online Live Classes + 3 months of placement track
               </div>
             </div>
           </div>
@@ -815,9 +816,7 @@ function App() {
             <div className="div-block-183198052204">
               <div className="text-block-94128920">Eligibility</div>
               <div className="text-block-94128921">
-                B. Tech (all branches), BSc, B.Com, BBA, etc.
-                <br />
-                No CGPA cut-off
+              Working Professionals,Experienced Professionals,Fresh graduates/Postgraduates
               </div>
             </div>
           </div>
@@ -835,9 +834,9 @@ function App() {
               </div>
             </div>
             <div className="div-block-183198052204">
-              <div className="text-block-94128920">Online</div>
+              <div className="text-block-94128920">Branches</div>
               <div className="text-block-94128921">
-                3 Hours Classes and 3&nbsp;Hours Labs Every&nbsp;Day
+              Operations, Credit, Finance, Accounting, Sales, Marketing, etc & B. Com, BBA, MBA
               </div>
             </div>
           </div>
@@ -856,14 +855,13 @@ function App() {
             </div>
             <div className="div-block-1831980521447046">
               <div className="div-block-183198052144700">
-                <div className="text-block-9412882406">Support</div>
-                <div className="div-block-1831980521447269">
+                <div className="text-block-9412882406">Mode</div>
+                {/* <div className="div-block-1831980521447269">
                   <div className="text-block-9412882481">NEW</div>
-                </div>
+                </div> */}
               </div>
               <div className="text-block-9412882405">
-                Live Sessions every week day with course mentors for doubts
-                clarification
+                Live Sessions in Online Mode
               </div>
             </div>
           </div>
@@ -880,7 +878,7 @@ function App() {
           </div>
         </div>
         <div className="we-ve-worked-with-th-3">
-          The All New Intensive 3.0 Upgrades&nbsp;to Supercharge Your Career
+          Credit Analyst Program Highlights&nbsp;to Supercharge Your Career
         </div>
         <div className="desktop-vector">
           <div className="vectors-wrapper-163 w-embed">
@@ -917,11 +915,10 @@ function App() {
               </div>
               <div className="frame-1000004070">
                 <div className="user-research">
-                  Live Sessions Every Week Day
+                Online Live Classes
                 </div>
                 <div className="we-take-pride-in-mak">
-                  To clear your doubts, share best coding practices, interview
-                  tips and more
+                Engage in interactive Online Live Classes
                 </div>
               </div>
             </div>
@@ -936,10 +933,10 @@ function App() {
               </div>
               <div className="frame-1000004067">
                 <div className="user-research">
-                  Dedicated Success Coach for Every Student
+                100% Placement Assistance
                 </div>
                 <div className="we-take-pride-in-mak">
-                  To guide you and ensure a smooth learning journey
+                Assist you at our best to unlock your placement
                 </div>
               </div>
             </div>
@@ -955,10 +952,9 @@ function App() {
                 />
               </div>
               <div className="frame-1000004070">
-                <div className="user-research">Placement Success Manager</div>
+                <div className="user-research">Capstone Project</div>
                 <div className="we-take-pride-in-mak">
-                  To give feedback on your interview performance and boost your
-                  confidence
+                Conclude with a hands-on Capstone Project
                 </div>
               </div>
             </div>
@@ -973,16 +969,14 @@ function App() {
               </div>
               <div className="frame-1000004067">
                 <div className="user-research">
-                  Mega Offline Placement Drives
+                LinkedIn profile Enhancement
                 </div>
                 <div className="we-take-pride-in-mak">
-                  Once in every 3 months
+                Advice and tips from current professionals to land credit analyst job in leading companies
                 </div>
               </div>
             </div>
           </div>
-        </div>
-        <div id="upgradesContainer2" className="upgrades-container-2">
           <div className="frame-1000004066">
             <div className="frame-1000004068">
               <div className="html-embed-82606 w-embed">
@@ -993,11 +987,10 @@ function App() {
                   loading="lazy"
                 />
               </div>
-              <div className="frame-1000004065">
-                <div className="user-research">AI-Powered Mock Interviews</div>
+              <div className="frame-1000004070">
+                <div className="user-research">Interview Preparation</div>
                 <div className="we-take-pride-in-mak">
-                  Practice with realistic mock interviews and get tailored
-                  feedback immediately
+                dedicated sessions where there would be mock interviews which would simulate the real interviews
                 </div>
               </div>
             </div>
@@ -1010,13 +1003,12 @@ function App() {
                   loading="lazy"
                 />
               </div>
-              <div className="frame-1000004070">
+              <div className="frame-1000004067">
                 <div className="user-research">
-                  Masterclasses by Industry Experts
+                Certification
                 </div>
                 <div className="we-take-pride-in-mak">
-                  To keep you updated with the latest trends and
-                  industry-aligned
+                Earn a “Eduzi Credit Analyst” certificate in association with Skill India and Google for Education
                 </div>
               </div>
             </div>
@@ -1031,13 +1023,12 @@ function App() {
                   loading="lazy"
                 />
               </div>
-              <div className="frame-1000004067">
+              <div className="frame-1000004070">
                 <div className="user-research">
-                  Mentorship from Successful Seniors
+                1-1 Mentorship
                 </div>
                 <div className="we-take-pride-in-mak">
-                  Alumni from 1700+ companies to make your placement preparation
-                  flawless
+                Receive personalized 1-1 Mentorship
                 </div>
               </div>
             </div>
@@ -1052,15 +1043,17 @@ function App() {
               </div>
               <div className="frame-1000004067">
                 <div className="user-research">
-                  Effortless Revision with NxtBytes
+                Lifetime access to content
                 </div>
                 <div className="we-take-pride-in-mak">
-                  Where you master key concepts through engaging reels and
-                  quizzes
+                Enjoy Lifetime Access to our content
                 </div>
               </div>
             </div>
           </div>
+        </div>
+        <div id="upgradesContainer2" className="upgrades-container-2">
+          
         </div>
       </div>
     </div>
@@ -1088,13 +1081,13 @@ function App() {
       <div className="best-alumni-div-2">
         <div className="div-block-1831980521414">
           <h4 className="heading-sathosi-font font-size-48">
-            Your Trainers are Alumni of
+            Our Alumni Work At
           </h4>
           <div loading="lazy" className="your-triners-underline" />
         </div>
         <div className="html-embed-41936 w-embed">
           <img
-            src="https://nxtwave.imgix.net/ccbp-website/intensive/learn-the-best-from-the-alumni/Alumni_2x.png"
+            src="https://eduzi.s3.amazonaws.com/alumni_working_companies.png"
             alt="learn from best alumni"
             width="100%"
             loading="lazy"
@@ -1116,7 +1109,7 @@ function App() {
     <div className="div-block-1831980521447038 intensive-2-0-page">
       <div className="div-block-1831980521447040 heading-div2">
         <h2 className="heading-sathosi-font font-size-48 color-light">
-          Your Seniors Got Placed. It’s&nbsp;Your&nbsp;Turn&nbsp;Now!
+          Eduzi Credit Analyst Program&nbsp;Success&nbsp;Stories!&nbsp;
         </h2>
         <div loading="lazy" className="your-seniours-got-placed-underline" />
       </div>
@@ -1211,23 +1204,24 @@ function App() {
                       >
                         <div className="div-block-1831980521447036">
                           <div className="div-block-1831980521447034">
-                            <div className="name-field-v">Deepak Kumar</div>
+                            <div className="name-field-v">Gokul Shanmugam</div>
                             <div
                               fs-cmsfilter-field="branch"
                               className="user-branch-v"
                             >
-                              Chemical Engineering (CHE)
+                              {/* Chemical Engineering (CHE) */}
+                              Eduzi's Credit Analyst Program
                             </div>
                             <div className="user-college-v">
-                              SASTRA Deemed University
+                              {/* SASTRA Deemed University */}
                             </div>
                             <div className="text-block-9412882397">
-                              2021 Graduate
+                              {/* 2021 Graduate */}
                             </div>
                           </div>
                           <div className="html-embed-82598 w-embed">
                             <img
-                              src="https://nxtwave.imgix.net/ccbp-website/Reviews/profile-images/deepak-kumar.png"
+                              src="https://eduzi.in/assets/img/stories/gokul.png"
                               loading="lazy"
                             />
                           </div>
@@ -1235,7 +1229,7 @@ function App() {
                         <div className="div-block-1831980521447035">
                           <div loading="lazy" className="blue-down-arrow" />
                           <div className="designation-field-v">
-                            Assistant manager in SDE
+                          Placed at Axis Bank, Chennai
                           </div>
                           <div className="html-embed-82597 w-embed">
                             <div
@@ -1247,15 +1241,15 @@ function App() {
                               }}
                             >
                               <img
-                                src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/reliance-jio.png"
+                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Axis_Bank_logo.svg/2560px-Axis_Bank_logo.svg.png"
                                 className="company-img"
                                 loading="lazy"
                               />
                             </div>
                           </div>
                           <div className="highlighted-text-v">
-                            NxtWave's CCBP 4.0 gave me strong fundamentals and a
-                            bright future in the field of IT.
+                            Eduzi gave me strong fundamentals and a
+                            bright future.
                           </div>
                         </div>
                       </div>
@@ -1267,20 +1261,20 @@ function App() {
                       >
                         <div className="div-block-1831980521447036">
                           <div className="div-block-1831980521447034">
-                            <div className="name-field-v">Jaya Prathyusha</div>
+                            <div className="name-field-v">D.Tejaswi</div>
                             <div
                               fs-cmsfilter-field="branch"
                               className="user-branch-v"
                             >
-                              Computer Science Engineering (CSE)
+                              Eduzi's Credit Analyst Program
                             </div>
                             <div className="user-college-v">
-                              Vellore Institute of Technology
+                              {/* Vellore Institute of Technology */}
                             </div>
                           </div>
                           <div className="html-embed-82598 w-embed">
                             <img
-                              src="https://nxtwave.imgix.net/ccbp-website/Reviews/profile-images/jaya-prathyusha.png"
+                              src="https://eduzi.in/assets/img/stories/tejaswi.png"
                               loading="lazy"
                             />
                           </div>
@@ -1288,7 +1282,7 @@ function App() {
                         <div className="div-block-1831980521447035">
                           <div loading="lazy" className="blue-down-arrow" />
                           <div className="designation-field-v">
-                            Senior Tech Associate
+                          Placed at Bandhan Bank, Hyderabad
                           </div>
                           <div className="html-embed-82597 w-embed">
                             <div
@@ -1300,14 +1294,14 @@ function App() {
                               }}
                             >
                               <img
-                                src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/bank-of-america.png"
+                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bandhan_Bank_Svg_Logo.svg/2560px-Bandhan_Bank_Svg_Logo.svg.png"
                                 className="company-img"
                                 loading="lazy"
                               />
                             </div>
                           </div>
                           <div className="highlighted-text-v">
-                            CCBP 4.0 will be my first choice to learn any new
+                            Eduzi will be my first choice to learn any new
                             skill in the future.
                           </div>
                         </div>
@@ -1320,30 +1314,30 @@ function App() {
                       >
                         <div className="div-block-1831980521447036">
                           <div className="div-block-1831980521447034">
-                            <div className="name-field-v">Sai Deepak</div>
+                            <div className="name-field-v">B.Rama Krishna</div>
                             <div
                               fs-cmsfilter-field="branch"
                               className="user-branch-v"
                             >
-                              Electrical &amp; Electronics Engineering (EEE)
+                              Eduzi's Credit Analyst Program
                             </div>
                             <div className="user-college-v">
-                              BVC College of Engineering
+                              {/* BVC College of Engineering */}
                             </div>
                             <div className="text-block-9412882397">
-                              2016 Graduate
+                              {/* 2016 Graduate */}
                             </div>
                           </div>
                           <div className="html-embed-82598 w-embed">
                             <img
-                              src="https://nxtwave.imgix.net/ccbp-website/Reviews/profile-images/sai-deepak.png"
+                              src="https://eduzi.in/assets/img/stories/b.rama.png"
                               loading="lazy"
                             />
                           </div>
                         </div>
                         <div className="div-block-1831980521447035">
                           <div loading="lazy" className="blue-down-arrow" />
-                          <div className="designation-field-v">Analyst</div>
+                          <div className="designation-field-v">Placed at Morgan Stanley, Mumbai</div>
                           <div className="html-embed-82597 w-embed">
                             <div
                               style={{
@@ -1354,7 +1348,7 @@ function App() {
                               }}
                             >
                               <img
-                                src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/reviews/company-logos/deloitte-v4.png"
+                                src="https://logos-world.net/wp-content/uploads/2021/02/Morgan-Stanley-Symbol.png"
                                 className="company-img"
                                 loading="lazy"
                               />
@@ -6116,7 +6110,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="w-dyn-list">
+      {/* <div className="w-dyn-list">
         <div role="list" className="w-dyn-items">
           <div role="listitem" className="w-dyn-item">
             <div className="date-changes-cms-collection-container-your-reviews">
@@ -6148,7 +6142,7 @@ function App() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   </div>
   <div
