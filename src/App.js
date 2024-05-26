@@ -6169,7 +6169,7 @@ function App() {
                 />
               </div>
               <h2 className="heading-sathosi-font font-size-48 width desktop-heading">
-                Get Ready for Your IT Career in 3 Steps
+              Upon successful completion,all the eligible candidates would be given assured placement support by Eduzi.
               </h2>
             </div>
             <div className="collection-list-wrapper-4 show w-dyn-list">
@@ -6189,15 +6189,15 @@ function App() {
                           href="#pricing"
                           className="book-a-free-demo-main-btn track-class w-button"
                         >
-                          Enroll Now
+                          Download Now
                         </a>
                         <a
                           style={{ display: "block" }}
-                          href="#hero-section"
+                          href="https://eduzi.s3.amazonaws.com/eduzi_curriculum.pdf"
                           id="book-a-free-demo-your-it-career-in-3-steps-desktop"
                           className="book-a-free-demo-main-btn secondary-cta-btn highlight-btn track-class w-button"
                         >
-                          Book a Free Demo
+                          View Curriculum
                         </a>
                       </div>
                     </div>
@@ -6207,7 +6207,7 @@ function App() {
             </div>
           </div>
           <img
-            src="https://assets-global.website-files.com/6170ed8e3c70e970603ed980/63bc1f656c0a973ffe38ed5a_3steps-desktop-curve.svg"
+            // src="https://assets-global.website-files.com/6170ed8e3c70e970603ed980/63bc1f656c0a973ffe38ed5a_3steps-desktop-curve.svg"
             loading="eager"
             alt=""
             className="desktop-blue-line-copy"
@@ -6222,7 +6222,7 @@ function App() {
                     <div className="text-block-94128911">1</div>
                   </div>
                   <div className="div-block-183198052181">
-                    <div className="text-block-9412881916">Fundamentals</div>
+                    <div className="text-block-9412881916">Credit Analyst Program</div>
                     <div className="div-block-183198052172">
                       <div className="w-embed">
                         <img
@@ -6233,7 +6233,7 @@ function App() {
                       </div>
                       <div className="text-block-94124857">
                         Duration:{" "}
-                        <span className="text-block-94128904">2 Months</span>
+                        <span className="text-block-94128904">6 Months</span>
                       </div>
                     </div>
                     <div className="div-block-183198052172">
@@ -6246,7 +6246,7 @@ function App() {
                         />
                       </div>
                       <div className="text-block-94128904">
-                        3 Hours Classes and 3 Hours Labs per&nbsp;day
+                      3 months Online Live Classes + 3 months of placement track
                       </div>
                     </div>
                     <div className="div-block-183198052172">
@@ -6258,9 +6258,9 @@ function App() {
                           loading="lazy"
                         />
                       </div>
-                      <div className="text-block-94128904">Courses Include</div>
+                      <div className="text-block-94128904">This program helps working professionals to get into high paying “Credit Analyst/Risk Analyst/Rating Analyst/Research Analyst” jobs in reputed domestic and international Banks, Financial Institutions, NBFC’s, Credit Rating Agencies and MNC’s.</div>
                     </div>
-                    <div>
+                    {/* <div>
                       <div className="w-layout-grid grid-8654">
                         <div
                           id="w-node-c361e8f0-dd88-f325-cfe8-e334e5b66a1c-d23a40cb"
@@ -6327,8 +6327,8 @@ function App() {
                           </div>
                         </div>
                       </div>
-                    </div>
-                    <div className="div-block-183198052172">
+                    </div> */}
+                    {/* <div className="div-block-183198052172">
                       <div className="html-embed-41907 w-embed">
                         <img
                           src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clipboard-icon.svg"
@@ -6340,11 +6340,11 @@ function App() {
                       <div className="text-block-94128904">
                         Fundamentals Exam
                       </div>
-                    </div>
+                    </div> */}
                     <a
                       id="view-curriculum-fundamentals"
                       rel="nofollow"
-                      href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/fundamentals-curriculum-intensive.pdf"
+                      href="https://eduzi.s3.amazonaws.com/eduzi_curriculum.pdf"
                       target="_blank"
                       className="link-block-597 track-button w-inline-block"
                     >
@@ -6368,7 +6368,7 @@ function App() {
                         <div className="slide-83 w-slide">
                           <div className="html-embed-41909 w-embed">
                             <img
-                              src="https://nxtwave.imgix.net/ccbp-website/nxtwave-intensive-2.0/food-munch-project-status.png"
+                              src="https://eduzi.in/assets/img/credit_analysis.png"
                               alt=""
                               width="100%"
                               loading="lazy"
@@ -6412,25 +6412,25 @@ function App() {
                   </div>
                   <div className="div-block-183198052184">
                     <div className="text-block-9412881916">
-                      Choose your Job Track
+                      Program Sessions
                     </div>
-                    <div className="text-block-94128924">
+                    {/* <div className="text-block-94128924">
                       Based on your Fundamentals exam score, we'll also
                       recommend you a suitable Job Track.
-                    </div>
+                    </div> */}
                     <div className="w-layout-grid grid-8653">
                       <div className="div-block-183198052175">
                         <div className="div-block-183198052176">
                           <div className="div-block-1831980521418">
                             <div className="text-block-9412881922">
-                              OPTION 1
+                              WEEK 1
                             </div>
                           </div>
                           <div className="text-block-94128906">
-                            MERN Full Stack
+                          Introduction to the “Credit Analyst Program”
                           </div>
                           <div className="div-block-183198052215">
-                            <div className="div-block-183198052172">
+                            {/* <div className="div-block-183198052172">
                               <div className="div-block-183198052214">
                                 <div className="html-embed-41019 w-embed">
                                   <img
@@ -6446,9 +6446,9 @@ function App() {
                                   6 Months
                                 </span>
                               </div>
-                            </div>
+                            </div> */}
                             <div className="div-block-183198052172">
-                              <div>
+                              {/* <div>
                                 <div className="html-embed-41019 w-embed">
                                   <img
                                     src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
@@ -6456,20 +6456,22 @@ function App() {
                                     loading="lazy"
                                   />
                                 </div>
-                              </div>
+                              </div> */}
                               <div className="div-block-1831980521434">
                                 <div className="text-block-94124857-copy">
-                                  Fresher Salaries :<br />
-                                  In India
+                                  
                                 </div>
                                 <div>
                                   <span className="text-block-94128904">
-                                    3 LPA - 12 LPA
+                                  •End to End process flow.<br/>
+                                  •Introduction to “Eduzi App”.<br/>
+                                  •How to get best results from the program.<br/>
+                                  •Resources available for the mentees.<br/>
                                   </span>
                                 </div>
                               </div>
                             </div>
-                            <div className="div-block-183198052172">
+                            {/* <div className="div-block-183198052172">
                               <div className="div-block-183198052214">
                                 <div className="html-embed-41019 w-embed">
                                   <img
@@ -6482,8 +6484,8 @@ function App() {
                               <div className="text-block-94128904">
                                 Real-time project
                               </div>
-                            </div>
-                            <div className="div-block-183198052216">
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
                               <div className="div-block-1831980521399">
                                 <div className="html-embed-41939 mongo-db w-embed">
                                   <img
@@ -6524,9 +6526,9 @@ function App() {
                                   />
                                 </div>
                               </div>
-                            </div>
+                            </div> */}
                           </div>
-                          <a
+                          {/* <a
                             id="view-curriculum-mern-full-stack"
                             rel="nofollow"
                             href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
@@ -6535,21 +6537,21 @@ function App() {
                           >
                             <div>View Curriculum</div>
                             <div className="view-curriculum-arrow" />
-                          </a>
+                          </a> */}
                         </div>
                       </div>
                       <div className="div-block-183198052175">
                         <div className="div-block-183198052176">
-                          <div className="div-block-1831980521418 option2">
-                            <div className="text-block-9412881922 option2">
-                              OPTION 2
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 2
                             </div>
                           </div>
                           <div className="text-block-94128906">
-                            Java Full Stack
+                          Introduction to Credit
                           </div>
                           <div className="div-block-183198052215">
-                            <div className="div-block-183198052172">
+                            {/* <div className="div-block-183198052172">
                               <div className="div-block-183198052214">
                                 <div className="html-embed-41019 w-embed">
                                   <img
@@ -6565,9 +6567,9 @@ function App() {
                                   6 Months
                                 </span>
                               </div>
-                            </div>
+                            </div> */}
                             <div className="div-block-183198052172">
-                              <div className="div-block-183198052224">
+                              {/* <div>
                                 <div className="html-embed-41019 w-embed">
                                   <img
                                     src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
@@ -6575,20 +6577,24 @@ function App() {
                                     loading="lazy"
                                   />
                                 </div>
-                              </div>
+                              </div> */}
                               <div className="div-block-1831980521434">
                                 <div className="text-block-94124857-copy">
-                                  Fresher Salaries :<br />
-                                  In India
+                                  
                                 </div>
                                 <div>
                                   <span className="text-block-94128904">
-                                    3 LPA - 12 LPA
+                                  •Understanding the role and importance of credit appraisal in corporate lending.<br/>
+                                  •Key stakeholders involved in credit appraisal.<br/>
+                                  •Overview of the credit appraisal process.<br/>
+                                  •Types of risks in credit appraisal.<br/>
+                                  •Techniques for assessing credit risk.<br/>
+                                  •Identifying and mitigating risks in credit appraisal.<br/>
                                   </span>
                                 </div>
                               </div>
                             </div>
-                            <div className="div-block-183198052172">
+                            {/* <div className="div-block-183198052172">
                               <div className="div-block-183198052214">
                                 <div className="html-embed-41019 w-embed">
                                   <img
@@ -6601,10 +6607,30 @@ function App() {
                               <div className="text-block-94128904">
                                 Real-time project
                               </div>
-                            </div>
-                            <div className="div-block-183198052216">
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
                               <div className="div-block-1831980521399">
-                                <div className="react w-embed">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
                                   <img
                                     src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
                                     alt=""
@@ -6614,50 +6640,44 @@ function App() {
                                 </div>
                               </div>
                               <div className="div-block-1831980521399">
-                                <div className="java w-embed">
+                                <div className="node-js w-embed">
                                   <img
-                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/java.png"
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
                                     alt=""
                                     width="100%"
                                     loading="lazy"
                                   />
                                 </div>
                               </div>
-                              <div>
-                                <div className="spring-boot w-embed">
-                                  <img
-                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/spring-boot.png"
-                                    alt=""
-                                    loading="lazy"
-                                  />
-                                </div>
-                              </div>
-                            </div>
+                            </div> */}
                           </div>
-                          <a
-                            id="view-curriculum-java-full-stack"
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
                             rel="nofollow"
-                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/java-fullstack-curriculum.pdf"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
                             target="_blank"
                             className="link-block-597 track-button w-inline-block"
                           >
                             <div>View Curriculum</div>
                             <div className="view-curriculum-arrow" />
-                          </a>
+                          </a> */}
+                          <div className="text-block-94128906">
+                          Case Study – Cyberabad Foods Pvt Ltd.
+                          </div>
                         </div>
                       </div>
                       <div className="div-block-183198052175">
                         <div className="div-block-183198052176">
-                          <div className="div-block-1831980521418 options3">
-                            <div className="text-block-9412881922 option3">
-                              OPTION 3
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 3&4
                             </div>
                           </div>
                           <div className="text-block-94128906">
-                            QA/Automation Testing
+                          Business Risk Profile Analysis of a Corporate
                           </div>
                           <div className="div-block-183198052215">
-                            <div className="div-block-183198052172">
+                            {/* <div className="div-block-183198052172">
                               <div className="div-block-183198052214">
                                 <div className="html-embed-41019 w-embed">
                                   <img
@@ -6670,12 +6690,12 @@ function App() {
                               <div className="text-block-94124857">
                                 Duration:{" "}
                                 <span className="text-block-94128904">
-                                  3 Months
+                                  6 Months
                                 </span>
                               </div>
-                            </div>
+                            </div> */}
                             <div className="div-block-183198052172">
-                              <div className="div-block-183198052224">
+                              {/* <div>
                                 <div className="html-embed-41019 w-embed">
                                   <img
                                     src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
@@ -6683,20 +6703,22 @@ function App() {
                                     loading="lazy"
                                   />
                                 </div>
-                              </div>
+                              </div> */}
                               <div className="div-block-1831980521434">
                                 <div className="text-block-94124857-copy">
-                                  Fresher Salaries :<br />
-                                  In India
+                                  
                                 </div>
                                 <div>
                                   <span className="text-block-94128904">
-                                    2 LPA - 7 LPA
+                                  •Industry Analysis.<br/>
+                                  •Market Position.<br/>
+                                  •Operating Efficiency.<br/>
+                                  •Project Risk.<br/>
                                   </span>
                                 </div>
                               </div>
                             </div>
-                            <div className="div-block-183198052172">
+                            {/* <div className="div-block-183198052172">
                               <div className="div-block-183198052214">
                                 <div className="html-embed-41019 w-embed">
                                   <img
@@ -6709,44 +6731,80 @@ function App() {
                               <div className="text-block-94128904">
                                 Real-time project
                               </div>
-                            </div>
-                            <div className="div-block-183198052216">
-                              <div className="html-embed-41930 w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/selenium.png"
-                                  alt=""
-                                  width="100%"
-                                  loading="lazy"
-                                />
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
                               </div>
-                            </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
                           </div>
-                          <a
-                            id="view-curriculum-qa-testing"
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
                             rel="nofollow"
-                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/qa-testing-curriculum-intensive-v2.pdf"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
                             target="_blank"
                             className="link-block-597 track-button w-inline-block"
                           >
-                            <div className="text-block-94128926">
-                              View Curriculum
-                            </div>
+                            <div>View Curriculum</div>
                             <div className="view-curriculum-arrow" />
-                          </a>
+                          </a> */}
+                          <div className="text-block-94128906">
+                          •Case Study 1 – Apple Inc.<br/>
+                          •Case Study 2 – Megha Engineering & Infrastructures Limited.<br/>
+                          •Case Study 3 – Thai Union Group Plc.<br/>
+                          •Case Study 4– Hygro Chemicals Pharmtek Pvt Ltd<br/>
+                          </div>
                         </div>
                       </div>
                       <div className="div-block-183198052175">
                         <div className="div-block-183198052176">
-                          <div className="div-block-1831980521418 option4">
-                            <div className="text-block-9412881922 option4">
-                              OPTION 4
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 5&6
                             </div>
                           </div>
                           <div className="text-block-94128906">
-                            Data Analytics
+                          Learning Financial Statements
                           </div>
                           <div className="div-block-183198052215">
-                            <div className="div-block-183198052172">
+                            {/* <div className="div-block-183198052172">
                               <div className="div-block-183198052214">
                                 <div className="html-embed-41019 w-embed">
                                   <img
@@ -6759,12 +6817,12 @@ function App() {
                               <div className="text-block-94124857">
                                 Duration:{" "}
                                 <span className="text-block-94128904">
-                                  3 Months
+                                  6 Months
                                 </span>
                               </div>
-                            </div>
+                            </div> */}
                             <div className="div-block-183198052172">
-                              <div className="div-block-183198052224">
+                              {/* <div>
                                 <div className="html-embed-41019 w-embed">
                                   <img
                                     src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
@@ -6772,20 +6830,29 @@ function App() {
                                     loading="lazy"
                                   />
                                 </div>
-                              </div>
+                              </div> */}
                               <div className="div-block-1831980521434">
                                 <div className="text-block-94124857-copy">
-                                  Fresher Salaries :<br />
-                                  In India
+                                  
                                 </div>
                                 <div>
                                   <span className="text-block-94128904">
-                                    2 LPA - 7 LPA
+                                  •Basics,Advanced- P&L, Balance sheet, Cash flow and Ratio Analysis.<br/>
                                   </span>
                                 </div>
                               </div>
                             </div>
-                            <div className="div-block-183198052172">
+                            <div className="text-block-94128906">
+                            Financial Modelling and Risk Profile
+                          </div>
+                          <div>
+                                  <span className="text-block-94128904">
+                                  •Financial Modelling.<br/>
+                                  •Accounting Quality.<br/>
+                                  •Cash Flows and Financial Flexibility.<br/>
+                                  </span>
+                                </div>
+                            {/* <div className="div-block-183198052172">
                               <div className="div-block-183198052214">
                                 <div className="html-embed-41019 w-embed">
                                   <img
@@ -6798,224 +6865,1171 @@ function App() {
                               <div className="text-block-94128904">
                                 Real-time project
                               </div>
-                            </div>
-                            <div className="div-block-183198052216">
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
                               <div className="div-block-1831980521399">
-                                <div className="html-embed-41924 w-embed">
+                                <div className="html-embed-41939 mongo-db w-embed">
                                   <img
-                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/powerbi.png"
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
                                     alt=""
                                     width="100%"
                                     loading="lazy"
                                   />
                                 </div>
-                                <div className="text-block-941248785">
-                                  Power BI
-                                </div>
                               </div>
-                              <div className="div-block-1831980521399">
-                                <div className="html-embed-41924 w-embed">
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
                                   <img
-                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/tableu.png"
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
                                     alt=""
                                     width="100%"
                                     loading="lazy"
                                   />
                                 </div>
-                                <div className="text-block-941248785">
-                                  Tableau
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
                                 </div>
                               </div>
-                            </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
                           </div>
-                          <a
-                            id="view-curriculum-data-analytics"
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
                             rel="nofollow"
-                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/data-analytics-intensive-curriculum.pdf"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
                             target="_blank"
                             className="link-block-597 track-button w-inline-block"
                           >
                             <div>View Curriculum</div>
                             <div className="view-curriculum-arrow" />
-                          </a>
+                          </a> */}
+                          <div className="text-block-94128906">
+                          Case Study : Kapston Facility Management Services Ltd.
+                          </div>
                         </div>
                       </div>
-                    </div>
-                  </div>
-                  <div className="fullstack-developer-popup">
-                    <div
-                      id="close-overlay-india-tab-mobile-entire-home-kit-store"
-                      className="close-overlay track-button"
-                    />
-                    <div className="div-block-1831980521401">
-                      <div className="div-block-183198052188">
-                        <div className="div-block-183198052186">
-                          <div className="div-block-1831980521400">
-                            <h3 className="heading-3670892">
-                              Full Stack Developer
-                            </h3>
-                            <div className="text-block-94128912">
-                              Learn advanced frameworks for frontend and backend
-                              development
+                      <div className="div-block-183198052175">
+                        <div className="div-block-183198052176">
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 6
                             </div>
                           </div>
-                        </div>
-                        <div>
-                          <div className="text-block-94128913">
-                            You Will Learn
+                          <div className="text-block-94128906">
+                          Management Risk Profile
                           </div>
-                          <div>
-                            <ul role="list" className="list-59">
-                              <li className="list-item-14659">
-                                <div className="text-block-94128914">
-                                  Programming Constructs with Instruction Flows
+                          <div className="div-block-183198052215">
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clock.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
                                 </div>
-                              </li>
-                              <li className="list-item-14659">
-                                <div className="text-block-94128914">
-                                  Programming Constructs with Instruction Flows
+                              </div>
+                              <div className="text-block-94124857">
+                                Duration:{" "}
+                                <span className="text-block-94128904">
+                                  6 Months
+                                </span>
+                              </div>
+                            </div> */}
+                            <div className="div-block-183198052172">
+                              {/* <div>
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
                                 </div>
-                              </li>
-                              <li className="list-item-14659">
-                                <div className="text-block-94128914">
-                                  Programming with Python
+                              </div> */}
+                              <div className="div-block-1831980521434">
+                                <div className="text-block-94124857-copy">
+                                  
                                 </div>
-                              </li>
-                              <li>
-                                <div className="text-block-94128914">
-                                  Fundamentals of Computer Science
+                                <div>
+                                  <span className="text-block-94128904">
+                                  •Competency, Integrity and Risk Appetite<br/>
+                                  </span>
                                 </div>
-                              </li>
-                            </ul>
+                              </div>
+                            </div>
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/rocket.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94128904">
+                                Real-time project
+                              </div>
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
+                          </div>
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
+                            rel="nofollow"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
+                            target="_blank"
+                            className="link-block-597 track-button w-inline-block"
+                          >
+                            <div>View Curriculum</div>
+                            <div className="view-curriculum-arrow" />
+                          </a> */}
+                          <div className="text-block-94128906">
+                          Case Study : Joyalukkas India Ltd.
                           </div>
                         </div>
                       </div>
-                      <div className="div-block-183198052187">
-                        <a href="#" className="link-block-596 w-inline-block">
-                          <div className="text-block-94128915">
-                            View Full Curriculum
-                          </div>
-                          <div className="view-curriculum-arrow" />
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="data-analyst-popup">
-                    <div
-                      id="close-overlay-india-tab-mobile-entire-home-kit-store"
-                      className="close-overlay track-button"
-                    />
-                    <div className="div-block-1831980521401">
-                      <div className="div-block-183198052188">
-                        <div className="div-block-183198052186">
-                          <div className="div-block-1831980521400">
-                            <h3 className="heading-3670892">
-                              Full Stack Developer
-                            </h3>
-                            <div className="text-block-94128912">
-                              Learn advanced frameworks for frontend and backend
-                              development
+                      <div className="div-block-183198052175">
+                        <div className="div-block-183198052176">
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 7
                             </div>
                           </div>
-                        </div>
-                        <div>
-                          <div className="text-block-94128913">
-                            You Will Learn
+                          <div className="text-block-94128906">
+                          Collateral Evaluation
                           </div>
-                          <div>
-                            <ul role="list" className="list-59">
-                              <li className="list-item-14659">
-                                <div className="text-block-94128914">
-                                  Programming Constructs with Instruction Flows
+                          <div className="div-block-183198052215">
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clock.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
                                 </div>
-                              </li>
-                              <li className="list-item-14659">
-                                <div className="text-block-94128914">
-                                  Programming Constructs with Instruction Flows
+                              </div>
+                              <div className="text-block-94124857">
+                                Duration:{" "}
+                                <span className="text-block-94128904">
+                                  6 Months
+                                </span>
+                              </div>
+                            </div> */}
+                            <div className="div-block-183198052172">
+                              {/* <div>
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
                                 </div>
-                              </li>
-                              <li className="list-item-14659">
-                                <div className="text-block-94128914">
-                                  Programming with Python
+                              </div> */}
+                              <div className="div-block-1831980521434">
+                                <div className="text-block-94124857-copy">
+                                  
                                 </div>
-                              </li>
-                              <li>
-                                <div className="text-block-94128914">
-                                  Fundamentals of Computer Science
+                                <div>
+                                  <span className="text-block-94128904">
+                                  •Role of collateral in credit appraisal.<br/>
+                                  •Types of collateral and their valuation methods.<br/>
+                                  •Legal and regulatory aspects of collateral.<br/>
+                                  •Evaluating collateral adequacy and quality.<br/>
+                                  •Setting credit limits and terms.<br/>
+                                  •Credit scoring models and credit rating agencies.<br/>
+                                  •Making informed credit decisions.<br/>
+                                  </span>
                                 </div>
-                              </li>
-                            </ul>
+                              </div>
+                            </div>
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/rocket.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94128904">
+                                Real-time project
+                              </div>
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
+                          </div>
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
+                            rel="nofollow"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
+                            target="_blank"
+                            className="link-block-597 track-button w-inline-block"
+                          >
+                            <div>View Curriculum</div>
+                            <div className="view-curriculum-arrow" />
+                          </a> */}
+                          <div className="text-block-94128906">
+                          Case Study: Suvarna Durga Bottles Pvt Ltd. 
+                          
                           </div>
                         </div>
                       </div>
-                      <div className="div-block-183198052187">
-                        <a href="#" className="link-block-596 w-inline-block">
-                          <div className="text-block-94128915">
-                            View Full Curriculum
-                          </div>
-                          <div className="view-curriculum-arrow" />
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="qa-automationtesting-popup">
-                    <div
-                      id="close-overlay-india-tab-mobile-entire-home-kit-store"
-                      className="close-overlay track-button"
-                    />
-                    <div className="div-block-1831980521401">
-                      <div className="div-block-183198052188">
-                        <div className="div-block-183198052186">
-                          <div className="div-block-1831980521400">
-                            <h3 className="heading-3670892">
-                              Full Stack Developer
-                            </h3>
-                            <div className="text-block-94128912">
-                              Learn advanced frameworks for frontend and backend
-                              development
+                      <div className="div-block-183198052175">
+                        <div className="div-block-183198052176">
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 7
                             </div>
                           </div>
-                        </div>
-                        <div>
-                          <div className="text-block-94128913">
-                            You Will Learn
+                          <div className="text-block-94128906">
+                          Loan Structuring and Documentation
                           </div>
-                          <div>
-                            <ul role="list" className="list-59">
-                              <li className="list-item-14659">
-                                <div className="text-block-94128914">
-                                  Programming Constructs with Instruction Flows
+                          <div className="div-block-183198052215">
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clock.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
                                 </div>
-                              </li>
-                              <li className="list-item-14659">
-                                <div className="text-block-94128914">
-                                  Programming Constructs with Instruction Flows
+                              </div>
+                              <div className="text-block-94124857">
+                                Duration:{" "}
+                                <span className="text-block-94128904">
+                                  6 Months
+                                </span>
+                              </div>
+                            </div> */}
+                            <div className="div-block-183198052172">
+                              {/* <div>
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
                                 </div>
-                              </li>
-                              <li className="list-item-14659">
-                                <div className="text-block-94128914">
-                                  Programming with Python
+                              </div> */}
+                              <div className="div-block-1831980521434">
+                                <div className="text-block-94124857-copy">
+                                  
                                 </div>
-                              </li>
-                              <li>
-                                <div className="text-block-94128914">
-                                  Fundamentals of Computer Science
+                                <div>
+                                  <span className="text-block-94128904">
+                                  •Loan structuring principles and strategies.<br/>
+                                  •Loan covenants and conditions.<br/>
+                                  •Loan documentation requirements.<br/>
+                                  •Legal and regulatory aspects of loan documentation.<br/>
+                                  </span>
                                 </div>
-                              </li>
-                            </ul>
+                              </div>
+                            </div>
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/rocket.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94128904">
+                                Real-time project
+                              </div>
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
+                          </div>
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
+                            rel="nofollow"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
+                            target="_blank"
+                            className="link-block-597 track-button w-inline-block"
+                          >
+                            <div>View Curriculum</div>
+                            <div className="view-curriculum-arrow" />
+                          </a> */}
+                          <div className="text-block-94128906">
+                          Case Study: Gubba Cold Storage Pvt Ltd.
                           </div>
                         </div>
                       </div>
-                      <div className="div-block-183198052187">
-                        <a href="#" className="link-block-596 w-inline-block">
-                          <div className="text-block-94128915">
-                            View Full Curriculum
+                      <div className="div-block-183198052175">
+                        <div className="div-block-183198052176">
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 7
+                            </div>
                           </div>
-                          <div className="view-curriculum-arrow" />
-                        </a>
+                          <div className="text-block-94128906">
+                          Credit Monitoring and Control
+                          </div>
+                          <div className="div-block-183198052215">
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clock.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94124857">
+                                Duration:{" "}
+                                <span className="text-block-94128904">
+                                  6 Months
+                                </span>
+                              </div>
+                            </div> */}
+                            <div className="div-block-183198052172">
+                              {/* <div>
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div> */}
+                              <div className="div-block-1831980521434">
+                                <div className="text-block-94124857-copy">
+                                  
+                                </div>
+                                <div>
+                                  <span className="text-block-94128904">
+                                  •Importance of credit monitoring and control.<br/>
+                                  •Early warning signals and problem loan identification.<br/>
+                                  •Remedial measures and credit risk mitigation.<br/>
+                                  </span>
+                                </div>
+                              </div>
+                            </div>
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/rocket.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94128904">
+                                Real-time project
+                              </div>
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
+                          </div>
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
+                            rel="nofollow"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
+                            target="_blank"
+                            className="link-block-597 track-button w-inline-block"
+                          >
+                            <div>View Curriculum</div>
+                            <div className="view-curriculum-arrow" />
+                          </a> */}
+                          <div className="text-block-94128906">
+                          Case Study: Supreme Batteries Private Limited.
+                          </div>
+                        </div>
                       </div>
+                      <div className="div-block-183198052175">
+                        <div className="div-block-183198052176">
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 8
+                            </div>
+                          </div>
+                          <div className="text-block-94128906">
+                          Detailed Credit Appraisal Process – Appraisal Note Preparation.
+                          </div>
+                          <div className="div-block-183198052215">
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clock.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94124857">
+                                Duration:{" "}
+                                <span className="text-block-94128904">
+                                  6 Months
+                                </span>
+                              </div>
+                            </div> */}
+                            <div className="div-block-183198052172">
+                              {/* <div>
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div> */}
+                              <div className="div-block-1831980521434">
+                                <div className="text-block-94124857-copy">
+                                  
+                                </div>
+                                <div>
+                                  <span className="text-block-94128904">
+                                  
+                                  </span>
+                                </div>
+                              </div>
+                            </div>
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/rocket.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94128904">
+                                Real-time project
+                              </div>
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
+                          </div>
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
+                            rel="nofollow"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
+                            target="_blank"
+                            className="link-block-597 track-button w-inline-block"
+                          >
+                            <div>View Curriculum</div>
+                            <div className="view-curriculum-arrow" />
+                          </a> */}
+                          <div className="text-block-94128906">
+                          Case Study 1 : Bhagiradha Chemicals Ltd.
+                          </div>
+                          <div className="text-block-94128906">
+                          Case Study 2 : – Sigachi Industries Limited.
+                          </div>
+                        </div>
+                      </div>
+                      <div className="div-block-183198052175">
+                        <div className="div-block-183198052176">
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 9
+                            </div>
+                          </div>
+                          <div className="text-block-94128906">
+                          Credit Ratings  
+                          </div>
+                          <div className="div-block-183198052215">
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clock.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94124857">
+                                Duration:{" "}
+                                <span className="text-block-94128904">
+                                  6 Months
+                                </span>
+                              </div>
+                            </div> */}
+                            <div className="div-block-183198052172">
+                              {/* <div>
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div> */}
+                              <div className="div-block-1831980521434">
+                                <div className="text-block-94124857-copy">
+                                  
+                                </div>
+                                <div>
+                                  <span className="text-block-94128904">
+                                  
+                                  </span>
+                                </div>
+                              </div>
+                            </div>
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/rocket.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94128904">
+                                Real-time project
+                              </div>
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
+                          </div>
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
+                            rel="nofollow"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
+                            target="_blank"
+                            className="link-block-597 track-button w-inline-block"
+                          >
+                            <div>View Curriculum</div>
+                            <div className="view-curriculum-arrow" />
+                          </a> */}
+                          <div className="text-block-94128906">
+                          Case Study: – Avanthi Feeds Ltd.
+                          </div>
+                          <div className="text-block-94128906">
+                          Case Study: – Aster DM Healthcare Ltd.
+                          </div>
+                        </div>
+                      </div>
+                      <div className="div-block-183198052175">
+                        <div className="div-block-183198052176">
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 9
+                            </div>
+                          </div>
+                          <div className="text-block-94128906">
+                          Research Tools –
+                          </div>
+                          <div className="div-block-183198052215">
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clock.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94124857">
+                                Duration:{" "}
+                                <span className="text-block-94128904">
+                                  6 Months
+                                </span>
+                              </div>
+                            </div> */}
+                            <div className="div-block-183198052172">
+                              {/* <div>
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div> */}
+                              <div className="div-block-1831980521434">
+                                <div className="text-block-94124857-copy">
+                                  
+                                </div>
+                                <div>
+                                  <span className="text-block-94128904">
+                                  •Probe42, CRILC, Bloomberg Terminal, S&P Capital IQ Pro, Restricted Lists, Wilful Defaulters List, CRISIL Research.<br/>
+                                  
+                                  </span>
+                                </div>
+                              </div>
+                            </div>
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/rocket.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94128904">
+                                Real-time project
+                              </div>
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
+                          </div>
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
+                            rel="nofollow"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
+                            target="_blank"
+                            className="link-block-597 track-button w-inline-block"
+                          >
+                            <div>View Curriculum</div>
+                            <div className="view-curriculum-arrow" />
+                          </a> */}
+                          
+                        </div>
+                      </div>
+                      <div className="div-block-183198052175">
+                        <div className="div-block-183198052176">
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 10
+                            </div>
+                          </div>
+                          <div className="text-block-94128906">
+                          •Resume + LinkedIn Building Session<br/>
+                          •Interview Basics + Skills<br/>
+                          </div>
+                          <div className="div-block-183198052215">
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clock.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94124857">
+                                Duration:{" "}
+                                <span className="text-block-94128904">
+                                  6 Months
+                                </span>
+                              </div>
+                            </div> */}
+                            <div className="div-block-183198052172">
+                              {/* <div>
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div> */}
+                              <div className="div-block-1831980521434">
+                                <div className="text-block-94124857-copy">
+                                  
+                                </div>
+                                <div>
+                                  <span className="text-block-94128904">
+                                  
+                                  </span>
+                                </div>
+                              </div>
+                            </div>
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/rocket.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94128904">
+                                Real-time project
+                              </div>
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
+                          </div>
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
+                            rel="nofollow"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
+                            target="_blank"
+                            className="link-block-597 track-button w-inline-block"
+                          >
+                            <div>View Curriculum</div>
+                            <div className="view-curriculum-arrow" />
+                          </a> */}
+                        </div>
+                      </div>
+                      <div className="div-block-183198052175">
+                        <div className="div-block-183198052176">
+                          <div className="div-block-1831980521418">
+                            <div className="text-block-9412881922">
+                              WEEK 11&12
+                            </div>
+                          </div>
+                          <div className="text-block-94128906">
+                          Mock – Interviews –
+                          </div>
+                          <div className="div-block-183198052215">
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/clock.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94124857">
+                                Duration:{" "}
+                                <span className="text-block-94128904">
+                                  6 Months
+                                </span>
+                              </div>
+                            </div> */}
+                            <div className="div-block-183198052172">
+                              {/* <div>
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/salary-note.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div> */}
+                              <div className="div-block-1831980521434">
+                                <div className="text-block-94124857-copy">
+                                  
+                                </div>
+                                <div>
+                                  <span className="text-block-94128904">
+                                  •Domestic Private Bank/International Bank/KPO/MNC.<br/>
+                                  
+                                  </span>
+                                </div>
+                              </div>
+                            </div>
+                            {/* <div className="div-block-183198052172">
+                              <div className="div-block-183198052214">
+                                <div className="html-embed-41019 w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/rocket.svg"
+                                    alt=""
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="text-block-94128904">
+                                Real-time project
+                              </div>
+                            </div> */}
+                            {/* <div className="div-block-183198052216">
+                              <div className="div-block-1831980521399">
+                                <div className="html-embed-41939 mongo-db w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mongo-db-logo.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399 div23124">
+                                <div className="express-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/express-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="react-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/react-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                              <div className="div-block-1831980521399">
+                                <div className="node-js w-embed">
+                                  <img
+                                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/node-js.png"
+                                    alt=""
+                                    width="100%"
+                                    loading="lazy"
+                                  />
+                                </div>
+                              </div>
+                            </div> */}
+                          </div>
+                          {/* <a
+                            id="view-curriculum-mern-full-stack"
+                            rel="nofollow"
+                            href="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-fullstack-curriculum-intensive.pdf"
+                            target="_blank"
+                            className="link-block-597 track-button w-inline-block"
+                          >
+                            <div>View Curriculum</div>
+                            <div className="view-curriculum-arrow" />
+                          </a> */}
+                        </div>
+                      </div>
+  
                     </div>
                   </div>
+                  
                 </div>
               </div>
               <div id="job-support" className="div-1234">
@@ -7024,13 +8038,13 @@ function App() {
                 </div>
                 <div className="div-block-183198052184">
                   <div className="text-block-9412881916">
-                    Placement Assistance for&nbsp;Your&nbsp;Job
+                    Program Highlights
                   </div>
                   <div>
-                    <div className="text-block-94128908">
+                    {/* <div className="text-block-94128908">
                       Up to 16 Months from the date of joining
                     </div>
-                    <div className="inter-600-font-16px">Free Add-ons:</div>
+                    <div className="inter-600-font-16px">Free Add-ons:</div> */}
                     <div className="div-block-183198052179">
                       <div className="div-block-183198052178">
                         <div className="html-embed-41912 w-embed">
@@ -7043,7 +8057,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            Aptitude Training
+                          Financial Modelling Workshop
                           </div>
                         </div>
                       </div>
@@ -7058,7 +8072,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            Soft Skills Training
+                          1-1 Mentorship
                           </div>
                         </div>
                       </div>
@@ -7075,7 +8089,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            Resume Preparation
+                          Resume Builder
                           </div>
                         </div>
                       </div>
@@ -7090,7 +8104,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            AI-Powered Mock Interviews
+                          Interview Prep
                           </div>
                         </div>
                       </div>
@@ -7107,8 +8121,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            Mock Interviews by <br />
-                            Tech and HR&nbsp;Panels
+                          LinkedIn profile Enhancement
                           </div>
                         </div>
                       </div>
@@ -7123,7 +8136,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            Scheduling Interviews
+                          Capstone Project
                           </div>
                         </div>
                       </div>
@@ -7140,7 +8153,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            Access to 300+ Senior Interview Experiences
+                          Lifetime access to content
                           </div>
                         </div>
                       </div>
@@ -7155,7 +8168,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            Access to Placement Portal
+                          100% Placement Assistance
                           </div>
                         </div>
                       </div>
@@ -7172,7 +8185,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            Mega Offline Placement Drives
+                          Certification
                           </div>
                         </div>
                       </div>
@@ -7187,8 +8200,7 @@ function App() {
                         </div>
                         <div className="div-block-183198052176">
                           <div className="text-block-94128905">
-                            Negotiation with companies <br />
-                            for higher salaries
+                          Pay after placement
                           </div>
                         </div>
                       </div>
@@ -7196,7 +8208,7 @@ function App() {
                   </div>
                 </div>
               </div>
-              <div className="div-block-183198052217">
+              {/* <div className="div-block-183198052217">
                 <div
                   data-delay={6000}
                   data-animation="slide"
@@ -7243,7 +8255,8 @@ function App() {
                   />
                   <div className="slide-nav-49 w-slider-nav" />
                 </div>
-              </div>
+              </div> */}
+              
             </div>
           </div>
           <div className="collection-list-wrapper-4 w-dyn-list">
