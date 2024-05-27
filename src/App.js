@@ -5437,7 +5437,7 @@ function App() {
               </div>
             </div>
           </div>
-          <div className="div-block-1881">
+          {/* <div className="div-block-1881">
             <a
               href="#"
               id="Reserve-seat-hero-section"
@@ -5466,7 +5466,7 @@ function App() {
             >
               <div className="text-block-831">Request Callback</div>
             </a>
-          </div>
+          </div> */}
         </div>
         <div className="div-block-1882">
           <div className="w-embed">
@@ -5514,7 +5514,7 @@ function App() {
       </div> */}
     </div>
   </section>
-  <section
+  {/* <section
     id="why-join-intensive"
     data-sectionid="sections"
     className="div-block-1831980521415"
@@ -5770,8 +5770,8 @@ function App() {
         </div>
       </div>
     </div>
-  </section>
-  <section id="awards" data-sectionid="sections" className="awarded-slider">
+  </section> */}
+  {/* <section id="awards" data-sectionid="sections" className="awarded-slider">
     <div className="awarded-slider-main-container">
       <div
         data-delay={4000}
@@ -6071,7 +6071,7 @@ function App() {
         </div>
       </div>
     </div>
-  </section>
+  </section> */}
   <div
     id="pricing"
     data-sectionid="sections"
@@ -6079,9 +6079,9 @@ function App() {
   >
     <div className="div-block-1831980521412 left-and-right-spacings">
       <div className="heading-sathosi-font font-size-48">
-        Your Success is our Success
+        Fee Structure
       </div>
-      <div className="div-block-1831980521388">
+      {/* <div className="div-block-1831980521388">
         <div className="image-812882265 w-embed">
           <img
             src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/index.png"
@@ -6089,7 +6089,7 @@ function App() {
           />
         </div>
         <div className="text-block-941248787">Choose your Payment Plan</div>
-      </div>
+      </div> */}
       <div className="pricing-tabs">
         <div
           data-current="Tab 1"
@@ -6098,7 +6098,7 @@ function App() {
           data-duration-out={100}
           className="w-tabs"
         >
-          <div className="tabs-menu-19 w-tab-menu">
+          {/* <div className="tabs-menu-19 w-tab-menu">
             <a
               data-w-tab="Tab 1"
               id="postpaid-tab-pricing"
@@ -6113,12 +6113,12 @@ function App() {
             >
               <div className="text-block-9412881920">Pre-paid</div>
             </a>
-          </div>
+          </div> */}
           <div className="tabs-content-26 w-tab-content">
             <div data-w-tab="Tab 1" className="w-tab-pane w--tab-active">
               <div className="div-block-1831980521390">
                 <div className="text-block-941248788">What’s included ?</div>
-                <div className="div-block-1831980521404">
+                {/* <div className="div-block-1831980521404">
                   <div>
                     <div className="pricing-logos-container">
                       <div className="w-embed">
@@ -6396,14 +6396,24 @@ https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxt
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
+                <div className="text-block-941248789-copy">
+                UPSKILLING TRACK -
+39,999/-
+(Non-refundable Upfront Fee)
+Cost of Upskilling including Live Online Classes, Mentor Support, Capstone Project, Interview Prep Lifetime access to content, Linkedin Profile Builder, Resume Builder, Program Certificate.<br/>
++<br/>PLACEMENT TRACK-
+8% of CTC
+(Pay after you get a job)
+Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual CTC (to be paid in 11 monthly instalments) after you get a job above 6 LPA
+                      </div>
                 <div>
                   <div className="div-block-1831980521391-copy">
                     <div className="div-block-1831980521441">
                       <div className="div-block-1831980521407">
                         <div className="discount-price-5">
                           <div className="discounted-program-price">
-                            ₹75,000/-
+                           Total
                           </div>
                           <img
                             loading="lazy"
@@ -6412,7 +6422,7 @@ https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxt
                             className="strike-3-copy"
                           />
                         </div>
-                        <div className="program-original-price">₹55,000/-</div>
+                        <div className="program-original-price">₹39,999/-</div>
                         <div className="program-pricing-term">
                           Non-refundable Upfront Fee
                         </div>
@@ -6420,14 +6430,14 @@ https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxt
                       <div className="text-block-941248790-copy">+</div>
                       <div className="div-block-1831980521406">
                         <div className="program-price-term1">
-                          12% of Annual CTC
+                          8% of CTC
                         </div>
                         <div className="program-pricing-term">
                           Pay after you get a job
                         </div>
                       </div>
                     </div>
-                    <div className="div-block-183198052143938">
+                    {/* <div className="div-block-183198052143938">
                       <div
                         id="scholarship-pricing"
                         className="new-scholar-ship-pricing-container-jfs"
@@ -6481,9 +6491,9 @@ https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxt
                           />
                         </div>
                       </div>
-                    </div>
+                    </div> */}
                   </div>
-                  <div className="fee-increase-strip-2">
+                  {/* <div className="fee-increase-strip-2">
                     <div>Fee increases from February 1st</div>
                     <div className="fee-increase-image w-embed">
                       <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/fee-increases-icon.svg" />
@@ -6491,10 +6501,10 @@ https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxt
                     <div className="fee-increase-image2 w-embed">
                       <img src="https://nxtwave.imgix.net/ccbp-website/nxtwave-intensive-2.0/trending-up-fee-increases-strip.png" />
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
-              <div
+              {/* <div
                 id="scholarship-pricing-mobile"
                 className="scholarship-pricing-mobile"
               >
@@ -6585,9 +6595,9 @@ https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxt
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
-            <div data-w-tab="Tab 2" className="w-tab-pane">
+            {/* <div data-w-tab="Tab 2" className="w-tab-pane">
               <div className="pricing-prepaid-tab-content">
                 <div className="pricing-pre-paid-title">What’s included ?</div>
                 <div className="prepaid-features-container">
@@ -6653,7 +6663,7 @@ https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxt
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
