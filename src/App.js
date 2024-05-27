@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import FaqSection from './FaqSection';
 
 function App() {
   return (
@@ -210,10 +211,10 @@ function App() {
               </a>
               <a
                 id="login-primary-navbar"
-                href="https://learning.ccbp.in/"
+                href="#footer"
                 className="link-block-599 track-class w-inline-block"
               >
-                <div>Login</div>
+                <div>Contact</div>
                 <div className="navhome-login-arrow" />
               </a>
             </nav>
@@ -384,13 +385,13 @@ function App() {
                     data-infinite="true"
                   >
                     <div className="w-slider-mask">
-                      <div className="hs-testimonials-slide w-slide">
+                      {/* <div className="hs-testimonials-slide w-slide">
                         <div className="hs-testimonials-slide-card1">
                           <div className="hs-testimonials-card-div-jfs">
                             <div className="hs-testimonials-card-txt">
-                              {/* 1700+ */}
+                              
                             </div>
-                            <div>Our Alumni works at</div>
+                            <div>Our Alumni works att</div>
                           </div>
                           <div className="hs-testimonials-card-companies-image w-embed">
                             <img
@@ -400,8 +401,8 @@ function App() {
                             />
                           </div>
                         </div>
-                      </div>
-                      <div className="hs-testimonials-slide w-slide">
+                      </div> */}
+                      {/* <div className="hs-testimonials-slide w-slide">
                         <div className="hs-testimonials-slide-card2">
                           <div className="hs-testimonials-heading-container-2">
                             <div className="hs-testimonials-quote-image w-embed">
@@ -444,7 +445,7 @@ function App() {
                             </div>
                           </div>
                         </div>
-                      </div>
+                      </div> */}
                       <div className="hs-testimonials-slide w-slide">
                         <div className="hs-testimonials-slide-card3">
                           <div className="hs-testimonials-doubts-image-div">
@@ -459,13 +460,13 @@ function App() {
                           </div>
                           <div className="hs-testimonials-doubts-content-div-2">
                             <div className="hs-testimonials-doubts-heading-2">
-                              9AM - 9PM Doubts Clarification.
+                            3 months Online Live Classes + 3 months of placement track
                             </div>
-                            <div>1500+ Mentors to help you.</div>
+                            {/* <div>1500+ Mentors to help you.</div> */}
                           </div>
                         </div>
                       </div>
-                      <div className="hs-testimonials-slide w-slide">
+                      {/* <div className="hs-testimonials-slide w-slide">
                         <div className="hs-testimonials-slide-card2">
                           <div className="hs-testimonials-heading-container-2">
                             <div className="hs-testimonials-quote-image w-embed">
@@ -508,8 +509,8 @@ function App() {
                             </div>
                           </div>
                         </div>
-                      </div>
-                      <div className="hs-testimonials-slide w-slide">
+                      </div> */}
+                      {/* <div className="hs-testimonials-slide w-slide">
                         <div className="hs-testimonials-slide-card3">
                           <div className="hs-testimonials-doubts-image-div _2nd-image">
                             <div className="w-embed">
@@ -527,8 +528,8 @@ function App() {
                             <div> for hands-on practice</div>
                           </div>
                         </div>
-                      </div>
-                      <div className="hs-testimonials-slide w-slide">
+                      </div> */}
+                      {/* <div className="hs-testimonials-slide w-slide">
                         <div className="hs-testimonials-slide-card2">
                           <div className="hs-testimonials-heading-container-2">
                             <div className="hs-testimonials-quote-image w-embed">
@@ -568,8 +569,8 @@ function App() {
                             </div>
                           </div>
                         </div>
-                      </div>
-                      <div className="hs-testimonials-slide w-slide">
+                      </div> */}
+                      {/* <div className="hs-testimonials-slide w-slide">
                         <div className="hs-testimonials-slide-card2">
                           <div className="hs-testimonials-heading-container-2">
                             <div className="hs-testimonials-quote-image w-embed">
@@ -612,7 +613,7 @@ function App() {
                             </div>
                           </div>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                     <div className="hs-testimonials-left-arrow w-slider-arrow-left" />
                     <div className="hs-testimonials-right-arrow w-slider-arrow-right" />
@@ -1064,7 +1065,7 @@ function App() {
         </div>
       </div>
     </div>
-    <div
+    {/* <div
       id="show-more-intensive-3.o-upgrades"
       className="show-more-upgrades track-button"
     >
@@ -1077,7 +1078,7 @@ function App() {
         />
       </div>
     </div>
-    <div className="w-embed w-script"></div>
+    <div className="w-embed w-script"></div> */}
   </div>
   <section
     id="learn-the-best-from-the-alumni-of-intensive-page"
@@ -1670,12 +1671,12 @@ function App() {
               <div role="list" className="w-dyn-items">
                 <div role="listitem" className="w-dyn-item">
                   <div className="date-changes-cms-collection-container-intensive left-aligin pt-0">
-                    <div className="intensive-batch-details-div-copy">
+                    {/* <div className="intensive-batch-details-div-copy">
                       <div className="start-batch-circle" />
                       <div className="int-batch-txt-copy">
                         Next batch starts tomorrow
                       </div>
-                    </div>
+                    </div> */}
                     <div className="embed-btn w-embed">
                       <div className="dates-changing-ctas">
                         <a
@@ -1689,6 +1690,7 @@ function App() {
                           style={{ display: "block" }}
                           href="https://eduzi.s3.amazonaws.com/eduzi_curriculum.pdf"
                           id="book-a-free-demo-your-it-career-in-3-steps-desktop"
+                          target="_blank"
                           className="book-a-free-demo-main-btn secondary-cta-btn highlight-btn track-class w-button"
                         >
                           View Curriculum
@@ -3753,7 +3755,7 @@ function App() {
               
             </div>
           </div>
-          <div className="collection-list-wrapper-4 w-dyn-list">
+          {/* <div className="collection-list-wrapper-4 w-dyn-list">
             <div role="list" className="w-dyn-items">
               <div role="listitem" className="w-dyn-item">
                 <div className="date-changes-cms-collection-container-intensive">
@@ -3785,12 +3787,12 @@ function App() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
   </div>
-  <div
+  {/* <div
     id="get-your-doubts-clarified-faster"
     data-sectionid="sections"
     className="doubts-clarified-section"
@@ -3920,7 +3922,7 @@ function App() {
         </div>
       </div>
     </div>
-  </div>
+  </div> */}
   <div
     id="trusted-by-thousands-to-become-it"
     data-sectionid="sections"
@@ -4931,7 +4933,7 @@ function App() {
             <div className="div-block-183198052126-copy intensive-2-0-right" />
           </div>
         </div>
-        <div>
+        {/* <div>
           <div className="collection-list-wrapper-4 w-dyn-list">
             <div role="list" className="w-dyn-items">
               <div role="listitem" className="w-dyn-item">
@@ -4965,7 +4967,7 @@ function App() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   </div>
@@ -6669,7 +6671,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
       </div>
     </div>
   </div>
-  <div id="faqs" data-sectionid="sections" className="faq-section">
+  {/* <div id="faqs" data-sectionid="sections" className="faq-section">
     <div className="faq-main-container">
       <h2 className="faq-main-heading">Frequently Asked Questions</h2>
       <div className="faqs-all-tabs-main-container">
@@ -7542,8 +7544,11 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
       </div>
       <div className="w-embed w-script"></div>
     </div>
+  </div> */}
+  <div id="faqs" data-sectionid="sections" className="faq-section">
+  <FaqSection />
   </div>
-  <section
+  {/* <section
     id="nxtwave-learners-experience"
     data-sectionid="sections"
     className="learner-expriences-videos-section"
@@ -8171,8 +8176,8 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
         <div className="slide-nav-18-copy w-slider-nav w-round" />
       </div>
     </div>
-  </section>
-  <section
+  </section> */}
+  {/* <section
     id="articles-in-media"
     data-sectionid="sections"
     className="atricles-media"
@@ -8658,7 +8663,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
         </div>
       </div>
     </div>
-  </section>
+  </section> */}
   <div id="footer" data-sectionid="sections" className="section-137">
     <div>
       <div className="container-24">
@@ -8677,40 +8682,41 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                   }}
                 />
                 <img
-                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Nxtwave_White_logo.svg"
+                  src="https://eduzi.s3.amazonaws.com/Screenshot+2024-05-26+174209.png"
                   alt="Nxtwave"
-                  width="100%"
+                  width="90%"
                   loading="lazy"
                 />
               </div>
             </a>
             <div className="footer-menu-column-3 reachus email">
-              <h6 className="h6-small-2">Reach Us</h6>
+              <h6 className="h6-small-2">Contact Us</h6>
               <div className="div-block-183198052034">
                 <a
                   id="whatsapp-only-footer"
-                  href="https://forms.ccbp.in/public/form/whatsapp-us-have-a-query/"
+                  // href="#"
                   target="_blank"
                   className="whastapp-button track-button w-inline-block"
                 >
                   <div className="whatsapp---icon-2 w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Home/whatsapp-icon.svg"
+                      src="https://i.pinimg.com/736x/9a/b0/8f/9ab08fc54ef212c77801ffa3110ea49d.jpg"
                       alt="whatsapp"
                       loading="lazy"
+                      width="20px"
                     />
                   </div>
                   <div>
                     <div className="whatsapp-link">
-                      +919390111761
+                    +91 79972 79973,
                       <br />
-                      (WhatsApp only)
+                      +91 79972 79974
                     </div>
                   </div>
                 </a>
                 <a
                   id="support-nxtwave-footer"
-                  href="mailto:support@nxtwave.tech"
+                  href="mailto:contact@eduzi.in"
                   className="email-button track-button w-inline-block"
                 >
                   <div className="email---icon-2 w-embed">
@@ -8720,7 +8726,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                     />
                   </div>
                   <div>
-                    <div className="whatsapp-link">support@nxtwave.tech</div>
+                    <div className="whatsapp-link">contact@eduzi.in</div>
                   </div>
                 </a>
               </div>
@@ -8734,7 +8740,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                   <ul role="list" className="link-menu-2 links w-list-unstyled">
                     <li className="link-menu-item-2">
                       <a
-                        href="https://www.ccbp.in/"
+                        href="#"
                         id="footer-home"
                         className="footer-link-3 track-button"
                       >
@@ -8744,25 +8750,25 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                     </li>
                     <li className="link-menu-item-2">
                       <a
-                        href="https://www.ccbp.in/academy"
+                        href="#intensive-upgrades"
                         id="footer-academy"
                         className="footer-link-3 track-button"
                       >
-                        Academy
+                        Highlights
                         <br />
                       </a>
                     </li>
                     <li className="link-menu-item-2">
                       <a
-                        href="https://www.ccbp.in/intensive"
+                        href="#curriculum"
                         id="footer-intensive"
                         className="footer-link-3 track-button"
                       >
-                        Intensive
+                        Curriculum
                         <br />
                       </a>
                     </li>
-                    <li className="link-menu-item-2">
+                    {/* <li className="link-menu-item-2">
                       <a
                         href="https://www.ccbp.in/hire"
                         id="footer-Hire-with-us"
@@ -8791,7 +8797,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                         Blog
                         <br />
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
                 <div className="div-block-1908">
@@ -8801,34 +8807,34 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                   >
                     <li className="link-menu-item-2">
                       <a
-                        href="https://www.ccbp.in/about-us"
+                        href="#pricing"
                         id="footer-about-us"
                         className="footer-link-3 track-button"
                       >
-                        About Us
+                        Fee
                         <br />
                       </a>
                     </li>
                     <li className="link-menu-item-2">
                       <a
-                        href="https://www.ccbp.in/reviews"
+                        href="#reviews"
                         id="footer-reviews"
                         className="footer-link-3 track-button"
                       >
-                        Reviews <br />
+                        Educators <br />
                       </a>
                     </li>
                     <li className="link-menu-item-2">
                       <a
-                        href="https://www.ccbp.in/tech-community"
+                        href="#faqs"
                         id="footer-community"
                         className="footer-link-3 track-button"
                       >
-                        Community
+                        FAQs
                         <br />
                       </a>
                     </li>
-                    <li className="link-menu-item-2">
+                    {/* <li className="link-menu-item-2">
                       <a
                         href="https://www.ccbp.in/4-0-champions"
                         id="footer-4.0champions"
@@ -8855,7 +8861,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                       >
                         Python Tutorial
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>
@@ -8930,8 +8936,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                 </div>
                 <div>
                   <div className="text-block-851">
-                    NxtWave, WeWork Rajapushpa Summit, Nanakramguda Rd,
-                    Financial District, Manikonda Jagir, Telangana 500032
+                  Eduzi Academy, 4th Floor, Sri Vishnu Elite, Plot No:27,Jayabheri Enclave,Gachibowli, Hyderabad - 500032
                   </div>
                 </div>
               </div>
@@ -8944,7 +8949,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
             <a
               id="footer-facebook-profile-link"
               rel="nofollow"
-              href="https://www.facebook.com/NxtWave-106729994530632/"
+              href="https://www.facebook.com/krishnagopal.tangirala.1"
               target="_blank"
               className="link-block-45 track-button w-inline-block"
             >
@@ -8959,7 +8964,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
             <a
               id="footer-instagram-profile-link"
               rel="nofollow"
-              href="https://www.instagram.com/ccbp_nxtwave/"
+              href="https://www.instagram.com/eduzi.academy/"
               target="_blank"
               className="link-block-45 track-button w-inline-block"
             >
@@ -8971,7 +8976,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                 />
               </div>
             </a>
-            <a
+            {/* <a
               id="footer-twitter-profile-link"
               rel="nofollow"
               href="https://twitter.com/nxtwave_tech"
@@ -8985,11 +8990,11 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                   loading="lazy"
                 />
               </div>
-            </a>
+            </a> */}
             <a
               id="footer-linkedin-profile-link"
               rel="nofollow"
-              href="https://www.linkedin.com/company/nxtwavetech"
+              href="https://www.linkedin.com/in/krishna-gopal-srinivasa-142393a7/"
               target="_blank"
               className="link-block-45 track-button w-inline-block"
             >
@@ -9004,7 +9009,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
             <a
               id="footer-youtube-profile-link"
               rel="nofollow"
-              href="https://www.youtube.com/c/NxtWaveTech"
+              href="https://www.youtube.com/channel/UCiRJkzyR9RR_w99JT8So7zg"
               target="_blank"
               className="link-block-43 track-button w-inline-block"
             >
@@ -9021,7 +9026,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
             <div className="div-block-183198052143944">
               <div className="footer-link-copy-2">
                 <a
-                  href="https://www.ccbp.in/privacy-policy"
+                  href="#"
                   id="footer-privacy-policy"
                   className="link-73 track-button"
                 >
@@ -9031,7 +9036,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
               </div>
               <div className="cookies-footer">
                 <a
-                  href="https://www.ccbp.in/cookie-policy"
+                  href="#"
                   id="footer-cookie-policy"
                   className="link-73 track-button"
                 >
@@ -9041,7 +9046,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
               </div>
               <div className="tnc-footer">
                 <a
-                  href="https://www.ccbp.in/terms-and-conditions"
+                  href="#"
                   id="footer-terms-and-conditions"
                   className="link-73 track-button"
                 >
@@ -9049,7 +9054,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                 </a>
                 <br />
               </div>
-              <div className="gr-footer">
+              {/* <div className="gr-footer">
                 <a
                   href="https://www.ccbp.in/grievance-redressal"
                   id="footer-grievance-redressal"
@@ -9068,10 +9073,10 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                   Corporate Information
                 </a>
                 <br />
-              </div>
+              </div> */}
               <div className="footer-link-copy-2 cookie-policy-mobile">
                 <a
-                  href="https://www.ccbp.in/cookie-policy"
+                  href="#"
                   id="footer-mobile-cookie-policy"
                   className="link-73 track-button"
                 >
@@ -9079,7 +9084,17 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                 </a>
                 <br />
               </div>
-              <div
+              <div className="cookies-footer">
+                <a
+                 
+                  id="footer-cookie-policy"
+                  className="link-73 track-button"
+                >
+                  All rights Reserved ©<br/>Eduzi Academy, 2022
+                </a>
+                <br />
+              </div>
+              {/* <div
                 id="footer-vision-and-value-statement"
                 className="gr-footer-copy"
               >
@@ -9091,12 +9106,12 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                   Vision and Values
                 </a>
                 <br />
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
         <div className="div-block-1910" />
-        <div id="course-track">
+        {/* <div id="course-track">
           <h6 className="h6-small-2 course-tracks new">Course Tracks</h6>
           <div className="div-block-183198052143954">
             <div className="div-block-183198052143957">
@@ -9802,7 +9817,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   </div>
@@ -9812,7 +9827,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
   >
     <a
       id="chat-with-us-intensive"
-      href="https://forms.ccbp.in/public/form/whatsapp-us-have-a-query"
+      href="https://api.whatsapp.com/send?phone=917997279973"
       className="link-block-59 homepage track-button whatsapp-us-segment w-inline-block"
     >
       <div className="text-block-934">Chat with us</div>

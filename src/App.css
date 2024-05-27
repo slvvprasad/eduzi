@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.faq-dropdown-arrow {
+  transition: transform 0.3s ease;
+}
+.faq-dropdown-arrow.open {
+  transform: rotate(180deg);
+}
+/* Define transition for smooth animation */
+.faq-ans {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+/* Define class to expand answer content */
+.faq-ans.open {
+  max-height: 200px; /* Adjust height as needed */
+}
