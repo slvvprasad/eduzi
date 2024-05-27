@@ -3929,7 +3929,7 @@ function App() {
     <div className="div-block-21067">
       <div className="div-block-1831980521410">
         <h2 className="heading-sathosi-font width font-size-24-copy">
-          Trusted by Thousands to Become&nbsp;IT&nbsp;Professionals
+          Eduzi Credit Analyst Program&nbsp;Success&nbsp;Stories !
         </h2>
         <div className="trusted-by-under-line w-embed">
           <img
@@ -3956,8 +3956,8 @@ function App() {
                   />
                 </div>
                 <div className="div-block-21071">
-                  <div className="text-block-909">1700+ Companies</div>
-                  <div className="text-block-910">Hired NxtWave Learners</div>
+                  <div className="text-block-909">Hiring Partners</div>
+                  <div className="text-block-910">have a large dedicated network of hiring partners and consultants through which we place our candidates in reputed MNCs and banks as credit analyst/financial analyst/research analyst/ratings analyst.</div>
                 </div>
               </div>
               <div
@@ -3973,15 +3973,15 @@ function App() {
                   />
                 </div>
                 <div className="div-block-21071">
-                  <div className="text-block-909">₹38&nbsp;LPA</div>
+                  <div className="text-block-909">Qualified Professionals</div>
                   <div className="text-block-910">
-                    Highest package
+                  Offered in collaboration with leading top-level MNC’s such as HSBC, Goldman Sachs, CRISIL, Citi Bank, Axis Bank and many more.
                     <br />
                   </div>
                 </div>
               </div>
             </div>
-            <div>
+            {/* <div>
               <div className="collection-list-wrapper-4 show w-dyn-list">
                 <div role="list" className="w-dyn-items">
                   <div role="listitem" className="w-dyn-item">
@@ -4015,7 +4015,7 @@ function App() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
           <div className="div-block-21073">
             <div className="div-block-183198052126 intensive-2-0" />
@@ -4024,19 +4024,19 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/sayak-dutta.png"
+                      src="https://eduzi.in/assets/img/stories/gokul.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Sayak Dutta</div>
-                    <div className="text-block-912">Software Engineer</div>
+                    <div className="text-block-911">Gokul Shanmugam</div>
+                    <div className="text-block-912">Placed at Axis Bank, Chennai</div>
                     <div className="company-logo w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/google.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Axis_Bank_logo.svg/2560px-Axis_Bank_logo.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4047,19 +4047,19 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/bhardwaj.png"
+                      src="https://eduzi.in/assets/img/stories/tejaswi.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Bharadhwaj</div>
-                    <div className="text-block-912">Software Engineer</div>
+                    <div className="text-block-911">D Tejaswi</div>
+                    <div className="text-block-912">Placed at Bandhan Bank, Hyd</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/amazon.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bandhan_Bank_Svg_Logo.svg/2560px-Bandhan_Bank_Svg_Logo.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4070,19 +4070,19 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/nikhil.png"
+                      src="https://eduzi.in/assets/img/stories/b.rama.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Nikhil</div>
-                    <div className="text-block-912">Software Developer</div>
+                    <div className="text-block-911">B.Rama Krishna</div>
+                    <div className="text-block-912">Placed at MorganStanley,Mum</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/samsung.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Morgan_Stanley_Logo_1.svg/1024px-Morgan_Stanley_Logo_1.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4093,19 +4093,19 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/sussantth.png"
+                      src="https://eduzi.in/assets/img/stories/p.jyothi_babu.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Sushanth</div>
-                    <div className="text-block-912">Fullstack Developer</div>
+                    <div className="text-block-911">P.Jyothi Babu</div>
+                    <div className="text-block-912">Placed at IDFC Bank,Hyd</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/needle-ai.svg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/7/7b/IDFC_First_Bank_logo.jpg"
                         height="27px"
                         alt=""
                       />
@@ -4115,21 +4115,21 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/sivaram.png"
+                      src="https://eduzi.in/assets/img/stories/swetha.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Yalla Sivaram</div>
+                    <div className="text-block-911">Swetha Mohanty</div>
                     <div className="text-block-912">
-                      Assoc. Software Engineer
+                    Placed at HSBC, Hyd
                     </div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/bosch.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1280px-HSBC_logo_%282018%29.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4140,19 +4140,19 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/maddineni-bhargava.png"
+                      src="https://eduzi.in/assets/img/stories/Ladi_rabiteja.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Maddineni Bhargava</div>
-                    <div className="text-block-912">ML Engineer (Intern)</div>
+                    <div className="text-block-911">Ladi Rabiteja</div>
+                    <div className="text-block-912">Placed at TechfinoCapt,Bangl</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/microsoft.png"
+                        src="https://www.techfino.in/assets/img/tcpl.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4160,7 +4160,7 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <div className="div-block-183198052117">
+                {/* <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
                       src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/manvendra-shah.png"
@@ -4238,25 +4238,25 @@ function App() {
                       />
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
               <div className="logo-row-right-div">
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/sushma.png"
+                      src="https://eduzi.in/assets/img/stories/gokul.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Sushma Duvva</div>
-                    <div className="text-block-912">Assoc. App Developer</div>
+                    <div className="text-block-911">Gokul Shanmugam</div>
+                    <div className="text-block-912">Placed at Axis Bank, Chennai</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/accenture.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Axis_Bank_logo.svg/2560px-Axis_Bank_logo.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4267,19 +4267,19 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/kiranmai.png"
+                      src="https://eduzi.in/assets/img/stories/b.rama.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Kasa Kiranmai</div>
-                    <div className="text-block-912">Intern Analyst</div>
+                    <div className="text-block-911">B.Rama Krishna</div>
+                    <div className="text-block-912">Placed at MorganStanley,Mum</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/deloitte-v1.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Morgan_Stanley_Logo_1.svg/1024px-Morgan_Stanley_Logo_1.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4290,21 +4290,21 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/surya-sai.png"
+                      src="https://eduzi.in/assets/img/stories/g.vignesh.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Surya Sai</div>
+                    <div className="text-block-911">Vignesh Vishwanathan</div>
                     <div className="text-block-912">
-                      System Engineer Trainee
+                    Placed at CRISIL,Chennai
                     </div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/infosys.png"
+                        src="https://mma.prnewswire.com/media/2211784/4276223/CRISIL_logo.jpg?p=twitter"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4315,19 +4315,19 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/jaya-prathyusha.png"
+                      src="https://eduzi.in/assets/img/stories/g.prannoy.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Jaya Prathyusha</div>
-                    <div className="text-block-912">Senior Tech Associate</div>
+                    <div className="text-block-911">G.Prannoy Kumar</div>
+                    <div className="text-block-912">Placed at ICICI Bank,Hyd</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/bank-of-america.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/ICICI_Bank_Logo.svg/2560px-ICICI_Bank_Logo.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4338,19 +4338,19 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/dinesh-varma.png"
+                      src="https://eduzi.in/assets/img/stories/subash.png"
                       width={36}
                       alt=""
                       loading="lazy"
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Dinesh Varma</div>
-                    <div className="text-block-912">Software Engineer</div>
+                    <div className="text-block-911">Subhash</div>
+                    <div className="text-block-912">Placed at IIFL, Banaglore</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/wipro.png"
+                        src="https://companieslogo.com/img/orig/IIFL.NS_BIG-f1d6efdb.png?t=1604053077"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4361,7 +4361,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/meghna-barnwl.png"
+                      src="https://eduzi.in/assets/img/stories/abhishek.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4369,13 +4369,13 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Meghna Barnwl</strong>
+                      <strong>Abhishek Gurajala</strong>
                     </div>
-                    <div className="text-block-912">Software Engineer</div>
+                    <div className="text-block-912">Placed at GoldmanSachs,Blr</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/flipkart.png"
+                        src="https://1000logos.net/wp-content/uploads/2021/04/Goldman-Sachs-logo.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4383,7 +4383,7 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <div className="div-block-183198052117">
+                {/* <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
                       src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/shailesh.png"
@@ -4457,24 +4457,24 @@ function App() {
                       />
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
               <div className="logo-row-left-div">
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/sonali-kothapalli.avif"
+                      src="https://eduzi.in/assets/img/stories/tejaswi.png"
                       width={36}
                       alt=""
                     />
                   </div>
                   <div className="div-block-183198052092">
-                    <div className="text-block-911">Sonali Kothapalli</div>
-                    <div className="text-block-912">Junior Data Analyst</div>
+                    <div className="text-block-911">D.Tejaswi</div>
+                    <div className="text-block-912">Placed at Bandhan Bank,Hyd</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/adf-company.jpeg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bandhan_Bank_Svg_Logo.svg/2560px-Bandhan_Bank_Svg_Logo.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4485,7 +4485,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/rahul-kumar.png"
+                      src="https://eduzi.in/assets/img/stories/Ladi_rabiteja.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4493,13 +4493,13 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Rahul Kumar</strong>
+                      <strong>Ladi Rabiteja</strong>
                     </div>
-                    <div className="text-block-912">Software Developer</div>
+                    <div className="text-block-912">Placed at Techfino Capt,Blr</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/reliance-jio.png"
+                        src="https://www.techfino.in/assets/img/tcpl.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4510,7 +4510,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/ranjith-tevnan.png"
+                      src="https://eduzi.in/assets/img/stories/subash.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4518,13 +4518,13 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Ranjith Tevnan</strong>
+                      <strong>Subhash</strong>
                     </div>
-                    <div className="text-block-912">ML Engineer (Intern)</div>
+                    <div className="text-block-912">Placed at IIFL, Banaglore</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/disney-hotstar.png"
+                        src="https://companieslogo.com/img/orig/IIFL.NS_BIG-f1d6efdb.png?t=1604053077"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4535,7 +4535,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/chandan-prakash.png"
+                      src="https://eduzi.in/assets/img/stories/p.jyothi_babu.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4543,15 +4543,15 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Chandan Prakash</strong>
+                      <strong>P.Jyothi Babu</strong>
                     </div>
                     <div className="text-block-912">
-                      Member of Technical Staff
+                    Placed at IDFC Bank,Hyd
                     </div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/oracle.svg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/7/7b/IDFC_First_Bank_logo.jpg"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4562,7 +4562,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/vineet-singla.png"
+                      src="https://eduzi.in/assets/img/stories/g.vignesh.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4570,13 +4570,13 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Vineet Singla</strong>
+                      <strong>Vignesh Vishwanathan</strong>
                     </div>
-                    <div className="text-block-912">Analyst</div>
+                    <div className="text-block-912">Placed at CRISIL,Chennai</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/goldman-sachs.svg"
+                        src="https://mma.prnewswire.com/media/2211784/4276223/CRISIL_logo.jpg?p=twitter"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4587,7 +4587,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/hetarth-dave.png"
+                      src="https://eduzi.in/assets/img/stories/swetha.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4595,13 +4595,13 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Hetarth Dave</strong>
+                      <strong>Swetha Mohanty</strong>
                     </div>
-                    <div className="text-block-912">Secured Internship</div>
+                    <div className="text-block-912">Placed at HSBC,Hyderabad</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/mastercard.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1280px-HSBC_logo_%282018%29.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4609,7 +4609,7 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <div className="div-block-183198052117">
+                {/* <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
                       src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/shaik-syed-basha.avif"
@@ -4685,13 +4685,13 @@ function App() {
                       />
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
               <div className="logo-row-right-div">
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/yashi-agarwal.png"
+                      src="https://eduzi.in/assets/img/stories/subash.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4699,13 +4699,13 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Yashi Agarwal</strong>
+                      <strong>Subhash</strong>
                     </div>
-                    <div className="text-block-912">Software engineer</div>
+                    <div className="text-block-912">Placed at IIFL, Banaglore</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/mentor-graphics.png"
+                        src="https://companieslogo.com/img/orig/IIFL.NS_BIG-f1d6efdb.png?t=1604053077"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4716,7 +4716,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/gulshan-mohiddin.png"
+                      src="https://eduzi.in/assets/img/stories/b.rama.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4724,15 +4724,15 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Gulshan Mohiddin</strong>
+                      <strong>B.Rama Krishna</strong>
                     </div>
                     <div className="text-block-912">
-                      Associate Process Analyst
+                    Placed at MorganStanley,Mum
                     </div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/delhivery.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Morgan_Stanley_Logo_1.svg/1024px-Morgan_Stanley_Logo_1.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4743,7 +4743,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/soumya-ranjan-mishra.png"
+                      src="https://eduzi.in/assets/img/stories/g.prannoy.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4751,14 +4751,14 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Soumya Ranjan Mishra</strong>
+                      <strong>G.Prannoy Kumar</strong>
                       <br />
                     </div>
-                    <div className="text-block-912">Technical Analyst</div>
+                    <div className="text-block-912">Placed at ICICI Bank,Hyd</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/citicorp.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/ICICI_Bank_Logo.svg/2560px-ICICI_Bank_Logo.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4769,7 +4769,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/milinda-reddy.png"
+                      src="https://eduzi.in/assets/img/stories/swetha.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4777,15 +4777,15 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Milinda Reddy</strong>
+                      <strong>Swetha Mohanty</strong>
                     </div>
                     <div className="text-block-912">
-                      Software Engineer (Intern)
+                    Placed at HSBC,Hyd
                     </div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/standard-chartered.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1280px-HSBC_logo_%282018%29.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4796,7 +4796,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/jayant-mathur.png"
+                      src="https://eduzi.in/assets/img/stories/gokul.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4804,13 +4804,13 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Jayant Mathur</strong>
+                      <strong>Gokul Shanmugam</strong>
                     </div>
-                    <div className="text-block-912">Software Developer</div>
+                    <div className="text-block-912">Placed at Axis Bank,Chennai</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/tcs.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Axis_Bank_logo.svg/2560px-Axis_Bank_logo.svg.png"
                         height="27px"
                         alt=""
                         loading="lazy"
@@ -4821,7 +4821,7 @@ function App() {
                 <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
-                      src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/jayakar-reddy.png"
+                      src="https://eduzi.in/assets/img/stories/abhishek.png"
                       width={36}
                       alt=""
                       loading="lazy"
@@ -4829,20 +4829,20 @@ function App() {
                   </div>
                   <div className="div-block-183198052092">
                     <div className="text-block-911">
-                      <strong>Jayakar Reddy</strong>
+                      <strong>Abhishek Gurajala</strong>
                     </div>
-                    <div className="text-block-912">Software Engineer</div>
+                    <div className="text-block-912">Placed at GoldmanSachs,Blr</div>
                     <div className="w-embed">
                       <img
                         className="company-logo-testimonial"
-                        src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/company-logos/gep.svg"
+                        src="https://1000logos.net/wp-content/uploads/2021/04/Goldman-Sachs-logo.png"
                         height="27px"
                         alt=""
                       />
                     </div>
                   </div>
                 </div>
-                <div className="div-block-183198052117">
+                {/* <div className="div-block-183198052117">
                   <div className="w-embed">
                     <img
                       src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Reviews/profile-images/krishna-murthy-cyient.avif"
@@ -4917,7 +4917,7 @@ function App() {
                       />
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="marquee-css-2 w-embed">
@@ -4969,7 +4969,8 @@ function App() {
       </div>
     </div>
   </div>
-  <section id="hiring-companies-intensive" data-sectionid="sections">
+  {/* companies sliding */}
+  {/* <section id="hiring-companies-intensive" data-sectionid="sections">
     <div className="hiring-companies-scroll-section">
       <div>
         <div>
@@ -5104,8 +5105,9 @@ function App() {
         </div>
       </div>
     </div>
-  </section>
-  <section
+  </section> */}
+  {/* youtube video */}
+  {/* <section
     id="prefers-nxtwave-students"
     data-sectionid="sections"
     className="why-top-companies"
@@ -5340,7 +5342,7 @@ function App() {
         </div>
       </div>
     </div>
-  </section>
+  </section> */}
   <section
     id="certificate"
     data-sectionid="sections"
@@ -5362,8 +5364,7 @@ function App() {
             </div>
           </div>
           <div className="text-block-836">
-            Yes, you’ll get a certificate representing your Industry Readiness
-            once you submit your projects and clear the pre placement test.
+          Upon successfully completing this program, you’ll earn a “Eduzi Credit Analyst” certificate in association with Skill India and Google for Education. This certification will add considerable value to your professional credentials.
           </div>
           <div className="div-block-1878">
             <div className="image-745 w-embed">
@@ -5381,11 +5382,10 @@ function App() {
             </div>
             <div className="div-block-1879">
               <div className="text-block-835">
-                Industry-Ready Certification [IRC]
+              Skill India and Google for Education
               </div>
               <div className="text-block-837">
-                Unlike any academic certificate, for the first-time in India,
-                IRC certifies your job readiness.
+              Association with Skill India and Google for Education will add considerable value to your professional credentials.
               </div>
             </div>
           </div>
@@ -5432,7 +5432,7 @@ function App() {
                 Let companies compete for you
               </div>
               <div className="text-block-837">
-                IRC certifies your industry-readiness and gets you placed with
+              “Eduzi Credit Analyst” certificate gets you placed with
                 higher salaries.
               </div>
             </div>
@@ -5471,7 +5471,7 @@ function App() {
         <div className="div-block-1882">
           <div className="w-embed">
             <img
-              src="https://nxtwave.imgix.net/ccbp-website/nxtwave-intensive-2.0/certificate.png"
+              src="https://eduzi.in/assets/img/highlights/certificate_sample.png"
               alt="IRC certificate"
               width="100%"
               loading="lazy"
@@ -5479,7 +5479,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="w-dyn-list">
+      {/* <div className="w-dyn-list">
         <div role="list" className="w-dyn-items">
           <div role="listitem" className="w-dyn-item">
             <div className="date-changes-cms-collection-container-intensive-copy left-aligin">
@@ -5511,7 +5511,7 @@ function App() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   </section>
   <section
