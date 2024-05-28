@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import FaqSection from './FaqSection';
+import Navbar from './Navbar';
 
 function App() {
   return (
@@ -124,7 +125,7 @@ function App() {
     className="intensive-hero-section"
   >
     <div className="div-block-183198052144000">
-      <div className="navbar-intensive">
+      {/* <div className="navbar-intensive">
         <div
           data-collapse="medium"
           data-animation="default"
@@ -220,7 +221,8 @@ function App() {
             </nav>
           </div>
         </div>
-      </div>
+      </div> */}
+      <Navbar/>
       <div className="intensive-hero-section-div int-tce">
         <div className="new-track-div-copy">
           <div className="div-block-1831980521447265">
