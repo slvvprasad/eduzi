@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 import FaqSection from './FaqSection';
+import Educators from './Educators';
 import Navbar from './Navbar';
+
 
 function App() {
   return (
@@ -282,7 +284,7 @@ function App() {
                           Course Duration
                         </div>
                         <div className="text-block-94128921 clr">
-                          5-8 months based on the Job Track you&nbsp;choose.
+                        6 months which includes - 3 months Online Live Classes + 3 months of placement track
                         </div>
                       </div>
                     </div>
@@ -302,8 +304,7 @@ function App() {
                       <div className="div-block-183198052204">
                         <div className="text-block-94128920">Eligibility</div>
                         <div className="text-block-94128921">
-                          B. Tech (all branches), BSc, B.Com, BBA,&nbsp;etc. No
-                          CGPA cut-off
+                        Working Professionals,Experienced Professionals,Fresh graduates/Postgraduates
                         </div>
                       </div>
                     </div>
@@ -321,9 +322,9 @@ function App() {
                         </div>
                       </div>
                       <div className="div-block-183198052204">
-                        <div className="text-block-94128920">Online</div>
+                        <div className="text-block-94128920">Branches</div>
                         <div className="text-block-94128921">
-                          3 Hours Classes and 3 Hours Labs Every&nbsp;Day
+                        Operations, Credit, Finance, Accounting, Sales, Marketing, etc & B. Com, BBA, MBA
                         </div>
                       </div>
                     </div>
@@ -342,14 +343,13 @@ function App() {
                       </div>
                       <div className="div-block-1831980521447046">
                         <div className="div-block-183198052144700">
-                          <div className="text-block-9412882406">Support</div>
-                          <div className="div-block-1831980521447270">
+                          <div className="text-block-9412882406">Mode</div>
+                          {/* <div className="div-block-1831980521447270">
                             <div className="text-block-9412882482">NEW</div>
-                          </div>
+                          </div> */}
                         </div>
                         <div className="text-block-9412882405">
-                          Live Sessions every week day with course mentors for
-                          doubts clarification
+                        Live Sessions in Online Mode
                         </div>
                       </div>
                     </div>
@@ -1115,6 +1115,18 @@ function App() {
       </div>
     </div>
   </section>
+  {/* <div id="reviews" data-sectionid="sections" className="section-2674">
+  <div className="div-block-1831980521447038 intensive-2-0-page">
+  <div className="div-block-1831980521447040 heading-div2">
+        <h2 className="heading-sathosi-font font-size-48 color-light">
+        Meet the Educators Behind&nbsp;Eduzi&nbsp;!&nbsp;
+        </h2>
+        <div loading="lazy" className="your-seniours-got-placed-underline" />
+      </div>
+  <Educators/>
+  </div>
+  </div> */}
+  
   <div id="reviews" data-sectionid="sections" className="section-2674">
     <div className="div-block-1831980521447038 intensive-2-0-page">
       <div className="div-block-1831980521447040 heading-div2">

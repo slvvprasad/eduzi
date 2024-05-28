@@ -73,6 +73,7 @@
 import { useEffect, useState } from "react";
 import { getTopNav } from "./navbarsdata";
 import './Navbar.css';
+
 const Navbar = () => {
   const [navItems, setNavItems] = useState([]);
   const [collapse, setCollapse] = useState("nav__menu");
@@ -92,21 +93,28 @@ const Navbar = () => {
       : setToggleIcon("toggler__icon");
   };
 
+  const handleLinkClick = () => {
+    if (collapse === "nav__menu nav__collapse") {
+      setCollapse("nav__menu");
+      setToggleIcon("toggler__icon");
+    }
+  };
+
   return (
     <div className="nav__wrapper">
       <div className="container">
         <nav className="nav">
           <a href="#" className="nav__brand">
-          <img
-                  src="https://eduzi.s3.amazonaws.com/Screenshot+2024-05-26+174209.png"
-                  alt=""
-                  width="120px"
-                />
+            <img
+              src="https://eduzi.s3.amazonaws.com/Screenshot+2024-05-26+174209.png"
+              alt=""
+              width="120px"
+            />
           </a>
           <ul className={collapse}>
             {navItems.map((item) => (
               <li key={item.id} className="nav__item">
-                <a href={item.href} className="nav__link">
+                <a href={item.href} className="nav__link" onClick={handleLinkClick}>
                   {item.label}
                 </a>
               </li>
@@ -124,3 +132,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
