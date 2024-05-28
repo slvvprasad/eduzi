@@ -8514,7 +8514,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
             <div className="div-block-183198052143944">
               <div className="footer-link-copy-2">
                 <a
-                  href="#"
+                  href="https://www.privacypolicytemplate.net/live.php?token=wlaL5oOpO5DuJCQT1GHwL1Svn3xchzrB"
                   id="footer-privacy-policy"
                   className="link-73 track-button"
                 >
@@ -8522,7 +8522,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                 </a>
                 <br />
               </div>
-              <div className="cookies-footer">
+              {/* <div className="cookies-footer">
                 <a
                   href="#"
                   id="footer-cookie-policy"
@@ -8531,10 +8531,10 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                   Cookie Policy
                 </a>
                 <br />
-              </div>
+              </div> */}
               <div className="tnc-footer">
                 <a
-                  href="#"
+                  href="https://www.termsandconditionsgenerator.com/live.php?token=VAJKKbwlgFDt4QWiRLJ6dqnPgNmztTXQ"
                   id="footer-terms-and-conditions"
                   className="link-73 track-button"
                 >
@@ -8562,7 +8562,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                 </a>
                 <br />
               </div> */}
-              <div className="footer-link-copy-2 cookie-policy-mobile">
+              {/* <div className="footer-link-copy-2 cookie-policy-mobile">
                 <a
                   href="#"
                   id="footer-mobile-cookie-policy"
@@ -8571,7 +8571,8 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                   Cookie Policy
                 </a>
                 <br />
-              </div>
+              </div> */}
+              <br/>
               <div className="cookies-footer">
                 <a
                  
