@@ -11,3 +11,55 @@
   border: 3px solid #fff;
   border-radius: 50%;
 }
+
+
+.educator-card {
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  height: 100%; /* Ensures all cards have the same height */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.educator-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.educator-card h5 {
+  font-size: 1.5rem;
+}
+
+.educator-card h6 {
+  font-size: 1rem;
+  color: #007bff;
+}
+
+.educator-card p {
+  font-size: 1rem;
+  color: #6c757d;
+  line-height: 1.6;
+}
+
+.educator-card img {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.educator-card a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.educator-card a:hover {
+  color: #0056b3;
+}
+
+.educator-card .linkedin-icon {
+  font-size: 40px; /* Adjust the size as needed */
+}

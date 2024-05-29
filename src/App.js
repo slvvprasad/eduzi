@@ -1,16 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-import FaqSection from './FaqSection';
-import Educators from './Educators';
-import Navbar from './Navbar';
+
 import Creditanalyst from './Creditanalyst';
 import {BrowserRouter,Routes,Route } from 'react-router-dom';
 import Home from './Home';
+// import Checkpage from './Checkpage';
+
 
 
 function App() {
   return (
     <>
+   {/* <Checkpage/> */}
     {/* <Home/> */}
     <BrowserRouter>
           <Routes>
