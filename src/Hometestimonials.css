@@ -1,0 +1,60 @@
+/* Testimonials.css */
+
+.testimonial-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+    height: 350px; /* Adjusted height to accommodate larger quote symbol */
+  }
+  
+  .testimonial-card {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 100%;
+    padding: 40px;
+    box-sizing: border-box;
+    transition: left 1s ease-in-out, opacity 1s ease-in-out; /* Slower transition */
+    opacity: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background: #f9f9f9;
+    border-radius: 20px; /* Curved borders */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .testimonial-card.active {
+    left: 0;
+    opacity: 1;
+  }
+  
+  .quote-symbol {
+    font-size: 14em; /* Large quote symbol for visual appeal */
+    color: #ccc; /* Light color for subtlety */
+    margin: 0;
+    line-height: 0.5; /* Adjusted line-height for positioning */
+  }
+  
+  .quote {
+    font-family: 'Lora', serif; /* Lora font for the quote */
+    font-size: 1.8em;
+    font-style: italic;
+    margin: 20px 0 10px 0; /* Adjusted margin for better spacing */
+    text-align: center;
+    color: #333;
+    line-height: 1.6; /* Space between lines */
+  }
+  
+  .author {
+    font-family: 'Montserrat', sans-serif; /* Montserrat font for the author */
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    color: #555;
+  }
+  
