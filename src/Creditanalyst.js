@@ -804,7 +804,7 @@ function Creditanalyst(){
             </div>
             <div className="div-block-183198052204">
               <div className="text-block-94128920">Course Duration</div>
-              <div className="text-block-94128921">
+              <div className="text-block-94128921" style={{ textAlign: 'justify' }}>
               6 months which includes - 3 months Online Live Classes + 3 months of placement track
               </div>
             </div>
@@ -824,7 +824,7 @@ function Creditanalyst(){
             </div>
             <div className="div-block-183198052204">
               <div className="text-block-94128920">Eligibility</div>
-              <div className="text-block-94128921">
+              <div className="text-block-94128921" style={{ textAlign: 'justify' }}>
               Working Professionals,Experienced Professionals,Fresh graduates/Postgraduates
               </div>
             </div>
@@ -844,7 +844,7 @@ function Creditanalyst(){
             </div>
             <div className="div-block-183198052204">
               <div className="text-block-94128920">Branches</div>
-              <div className="text-block-94128921">
+              <div className="text-block-94128921" >
               Operations, Credit, Finance, Accounting, Sales, Marketing, etc & B. Com, BBA, MBA
               </div>
             </div>
@@ -1138,10 +1138,8 @@ function Creditanalyst(){
         <div className="col-left">
           <div className="learn_wrapper">
             <div className="section-heading-div">
-              <h2 className="heading-sathosi-font font-size-48 width mobile-heading">
-                Get Ready for Your IT Career
-                <br />
-                in 3 Steps
+            <h2 className="heading-sathosi-font font-size-48 width desktop-heading" style={{ textAlign: 'left' }}>
+              Upon successful completion,all the eligible candidates would be given assured placement support by Eduzi.
               </h2>
               <div className="html-embed-41922 w-embed">
                 <img
@@ -1150,7 +1148,7 @@ function Creditanalyst(){
                   loading="lazy"
                 />
               </div>
-              <h2 className="heading-sathosi-font font-size-48 width desktop-heading">
+              <h2 className="heading-sathosi-font font-size-48 width desktop-heading" style={{ textAlign: 'left' }}>
               Upon successful completion,all the eligible candidates would be given assured placement support by Eduzi.
               </h2>
             </div>
@@ -1241,7 +1239,7 @@ function Creditanalyst(){
                           loading="lazy"
                         />
                       </div>
-                      <div className="text-block-94128904">This program helps working professionals to get into high paying “Credit Analyst/Risk Analyst/Rating Analyst/Research Analyst” jobs in reputed domestic and international Banks, Financial Institutions, NBFC’s, Credit Rating Agencies and MNC’s.</div>
+                      <div className="text-block-94128904" style={{ textAlign: 'justify' }}>This program helps working professionals to get into high paying “Credit Analyst/Risk Analyst/Rating Analyst/Research Analyst” jobs in reputed domestic and international Banks, Financial Institutions, NBFC’s, Credit Rating Agencies and MNC’s.</div>
                     </div>
                     {/* <div>
                       <div className="w-layout-grid grid-8654">
@@ -1444,7 +1442,7 @@ function Creditanalyst(){
                                 <div className="text-block-94124857-copy">
                                   
                                 </div>
-                                <div>
+                                <div >
                                   <span className="text-block-94128904">
                                   •End to End process flow.<br/>
                                   •Introduction to “Eduzi App”.<br/>
@@ -3446,7 +3444,7 @@ function Creditanalyst(){
                 </div>
                 <div className="div-block-21071">
                   <div className="text-block-909">Hiring Partners</div>
-                  <div className="text-block-910">have a large dedicated network of hiring partners and consultants through which we place our candidates in reputed MNCs and banks as credit analyst/financial analyst/research analyst/ratings analyst.</div>
+                  <div className="text-block-910" style={{ textAlign: 'justify' }}>have a large dedicated network of hiring partners and consultants through which we place our candidates in reputed MNCs and banks as credit analyst/financial analyst/research analyst/ratings analyst.</div>
                 </div>
               </div>
               <div
@@ -3463,7 +3461,7 @@ function Creditanalyst(){
                 </div>
                 <div className="div-block-21071">
                   <div className="text-block-909">Qualified Professionals</div>
-                  <div className="text-block-910">
+                  <div className="text-block-910" style={{ textAlign: 'justify' }}>
                   Offered in collaboration with leading top-level MNC’s such as HSBC, Goldman Sachs, CRISIL, Citi Bank, Axis Bank and many more.
                     <br />
                   </div>
@@ -4852,7 +4850,7 @@ function Creditanalyst(){
               />
             </div>
           </div>
-          <div className="text-block-836">
+          <div className="text-block-836" style={{ textAlign: 'justify' }}>
           Upon successfully completing this program, you’ll earn a “Eduzi Credit Analyst” certificate in association with Skill India and Google for Education. This certification will add considerable value to your professional credentials.
           </div>
           <div className="div-block-1878">
@@ -5886,7 +5884,7 @@ https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxt
                     </div>
                   </div>
                 </div> */}
-                <div className="text-block-941248789-copy">
+                <div className="text-block-941248789-copy" style={{ textAlign: 'justify' }}>
                 UPSKILLING TRACK -
 39,999/-
 (Non-refundable Upfront Fee)
