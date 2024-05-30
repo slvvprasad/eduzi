@@ -298,9 +298,9 @@ function Home() {
           <div className="div-block-1874">
             <div className="div-block-1871">
               <div className="div-block-1831980521437">
-                <div className="div-block-1831980412">
+                <div className="div-block-1831980412" style={{ textAlign: 'justify' }}>
                   <h1 className="heading-368">
-                  Welcome , Eduzi Academy<br/>
+                  Welcome ,<br/> Eduzi Academy
 
                   </h1>
                   <h2>Be in the big league of the credit analyst roles by choosing Eduzi’s Credit Analyst Program.</h2>
@@ -388,8 +388,8 @@ function Home() {
                         <div className="green-strip">CREDIT ANALYST PROGRAM</div>
                       </div>
                     </div>
-                    <div className="text-block-825">
-                    Get ready to supercharge your career with the next cohort <br/>of our flagship Placement-Oriented “CREDIT ANALYST PROGRAM”
+                    <div className="text-block-825" style={{ textAlign: 'left' }}>
+                   Get ready to supercharge your career with the next cohort of our flagship CREDIT ANALYST PROGRAM
                     </div>
                     <div className="w-dyn-list">
                       <div role="list" className="w-dyn-items">
@@ -1611,7 +1611,7 @@ function Home() {
           <div className="why-top-compines-main-container">
             <div className="div-block-1831980521447253">
               <div className="div-block-1831980521447251">
-                <div className="text-block-9412882471">
+                <div className="text-block-9412882471" style={{ textAlign: 'center' }}>
                
                   <span className="blue-highlight-span-txt-copy">  EDUZI </span>{" "}
                   is Now on Youtube -
@@ -1620,7 +1620,7 @@ function Home() {
                   </span>
                   
                 </div>
-                <p className="paragraph-693">
+                <p className="paragraph-693" style={{ textAlign: 'justify' }}>
                 India's most Reliable Upskilling & Mentorship platform specially designed for Finance and Credit communities and run by real time and highly successful professionals from leading MNCs.
                 </p>
               </div>
