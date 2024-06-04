@@ -5,7 +5,7 @@ export default function HeroImage() {
     <div className="div-block-1874">
             <div className="div-block-1871">
               <div className="div-block-1831980521437">
-                <div className="div-block-1831980412" style={{ textAlign: 'justify' }}>
+                <div className="div-block-1831980412" >
                   <br/>
                   <h1 className="heading-368">
                   Welcome ,<br/> Eduzi Academy
