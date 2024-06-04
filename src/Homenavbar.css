@@ -43,7 +43,7 @@ li {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 10vh;
+  height: 8vh;
 }
 
 .nav__brand {
@@ -63,7 +63,7 @@ li {
     color: #000000; /* Default color */
     font-weight: bold; /* Make the text bold */
     font-family: 'Arial', sans-serif; 
-    font-size: 16px;
+    font-size: 17px;
   }
   
   .nav__link:hover {
@@ -98,6 +98,7 @@ li {
     right: 0;
     transform: translateX(100%);
     transition: 0.5s ease;
+    z-index: 1000; /* Add this line */
   }
 }
 

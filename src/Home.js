@@ -1,5 +1,9 @@
 import Homenavbar from './Homenavbar';
 import Hometestimonials from './Hometestimonial';
+import Homehero from './Homehero';
+import Checkpage from './Checkpage';
+import Homestudentprofile from './Homestudentprofile';
+import PlacedStudents from './HomePlacedStudents';
 function Home() {
     return (
         <>
@@ -282,20 +286,12 @@ function Home() {
               <div className="text-block-9412881926">
                 Welcome To Eduzi Academy 
               </div>
-              {/* <div className="link-block-649">
-                <div className="text-span-1606">Know more</div>
-                <div className="image-812882272 w-embed">
-                  <img
-                    src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Home/INR-arrow.svg"
-                    alt="arrow"
-                  />
-                </div>
-              </div> */}
             </div>
           </div>
         </div>
         <section id="Landing-section-home" className="landing-section_home">
-          <div className="div-block-1874">
+          <Homehero/>
+          {/* <div className="div-block-1874">
             <div className="div-block-1871">
               <div className="div-block-1831980521437">
                 <div className="div-block-1831980412" style={{ textAlign: 'justify' }}>
@@ -396,18 +392,14 @@ function Home() {
                         <div role="listitem" className="w-dyn-item">
                           <div className="div-block-1869">
                             <div>
-                              {/* <div className="text-block-827">NEXT BATCH</div> */}
-                              {/* <div className="text-block-826">Starts soon</div> */}
+                              
                             </div>
                             <div className="div-block-1289">
                               <div className="fire-icon w-embed">
-                                {/* <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/Home/hero-section-vector-fire.svg"
-                                  alt=""
-                                /> */}
+                                
                               </div>
                               <div className="text-block-824">
-                                {/* Limited Seats Available */}
+                               
                               </div>
                             </div>
                           </div>
@@ -420,14 +412,14 @@ function Home() {
                       href="https://www.ccbp.in/academy"
                       className="link-block-42 track-button w-inline-block"
                     >
-                      {/* <div className="text-block-830">Know More</div> */}
+                      
                     </a>
                     <a
                       id="Request-call-back-academy-card-Home"
                       href="/creditanalyst"
                       className="request-call-back-button track-button white-text-color request-a-callback-segment w-inline-block"
                     >
-                      {/* <div className="request-callback-icon" /> */}
+                      
                       <div className="text-block-829 white-text-color">
                         More Details
                       </div>
@@ -443,7 +435,7 @@ function Home() {
                 
               </div>
             </div>
-          </div>
+          </div> */}
         </section>
         <section
           id="Home-page-alumni-of"
@@ -520,63 +512,10 @@ function Home() {
         <section id="certificate" className="awarded-section">
           <div className="awarded-main-container">
             <div className="div-block-1831980521447249">
-              <h3 className="heading-3670966">Get Credit Analyst Certified By Eduzi</h3>
-              <div className="div-block-1831980521447246">
+              <h3 className="heading-3670966">Prefered Student Profiles</h3>
+              {/* <div className="div-block-1831980521447246">
                 <div className="div-block-1831980521447247">
-                  {/* <div className="edtech-award-container">
-                    <div className="ed-tech-award-img w-embed">
-                      <style
-                        dangerouslySetInnerHTML={{
-                          __html:
-                            "\n                                    @media screen and (min-width: 780px) {\n                                        .awardImage {\n                                            height: 150px;\n                                        }\n                                    }\n\n                                    @media screen and (max-width: 779px) {\n                                        .awardImage {\n                                            height: 110px;\n                                        }\n                                    }\n                                "
-                        }}
-                      />
-                      <img
-                        src="https://nxtwave.imgix.net/ccbp-website/Home/best-skill.png"
-                        alt="award-image"
-                        loading="lazy"
-                        className="awardImage"
-                      />
-                    </div>
-                    <div className="div-block-1831980521447243">
-                      <div className="text-block-9412882465">Recognised as</div>
-                      <div className="text-block-9412882466">
-                        Best Tech Skilling
-                        <br />
-                        EdTech Company
-                      </div>
-                      <div className="text-block-9412882467">
-                        by Times Business Awards in 2022
-                      </div>
-                    </div>
-                  </div> */}
-                  {/* <div className="trusted-brand-image">
-                    <div className="trusted-brand-img w-embed">
-                      <style
-                        dangerouslySetInnerHTML={{
-                          __html:
-                            "\n                                    @media screen and (min-width: 780px) {\n                                        .trusted-award {\n                                            height: 110px;\n                                        }\n                                    }\n\n                                    @media screen and (max-width: 779px) {\n                                        .trusted-award {\n                                            height: 97px;\n                                        }\n                                    }\n                                "
-                        }}
-                      />
-                      <img
-                        src="https://nxtwave.imgix.net/ccbp-website/Home/trusted-brand.png"
-                        alt="award-image"
-                        loading="lazy"
-                        className="trusted-award"
-                      />
-                    </div>
-                    <div className="trusted-brand-container">
-                      <div className="text-block-9412882465">Recognised as</div>
-                      <div className="text-block-9412882466">
-                        Trusted Brand in
-                        <br />
-                        Education
-                      </div>
-                      <div className="text-block-9412882467">
-                        by Prime Insights in 2023
-                      </div>
-                    </div>
-                  </div> */}
+                 
                 </div>
                 <div className="div-block-1831980521447247">
                   <div className="html-embed-82625 w-embed">
@@ -605,53 +544,12 @@ function Home() {
                       loading="lazy"
                     />
                   </div>
-                  {/* <div className="text-block-9412882468">
-                    Founders Mr. Anupam Pedarla and Mr. Sashank Gujjula made it to the
-                    prestigious 2024 Forbes India 30 Under 30 list!
-                  </div> */}
+                  
                 </div>
-                {/* <div className="div-block-1831980521447245">
-                  <div className="div-block-1831980521447244">
-                    <div className="html-embed-82627 w-embed">
-                      <img
-                        src="https://nxtwave.imgix.net/ccbp-website/Home/award-by-time-business.png"
-                        alt=""
-                        loading="lazy"
-                      />
-                    </div>
-                    <div className="text-block-9412882468">
-                      Mr. Sashank Gujjula, Co-founder, NxtWave, receiving the ‘Best
-                      Tech Skilling EdTech Company’ award by Times Business Awards
-                    </div>
-                  </div>
-                  <div className="div-block-1831980521447244">
-                    <div className="html-embed-82627 w-embed">
-                      <img
-                        src="https://nxtwave.imgix.net/ccbp-website/Home/t-hub-award.png"
-                        alt=""
-                        loading="lazy"
-                      />
-                    </div>
-                    <div className="text-block-9412882468">
-                      Mr. Sashank Gujjula, Co-founder, NxtWave, receiving the
-                      prestigious award by T-Hub
-                    </div>
-                  </div>
-                </div> */}
-              </div>
+               
+              </div> */}
+              <Homestudentprofile/>
             </div>
-            {/* <div className="awards-section-cta">
-              <a
-                id="request-call-back-awards-received"
-                href="https://forms.ccbp.in/public/form/talk-to-career-expert"
-                className="request-call-back-home-master-class track-button request-a-callback-segment primary-cta w-inline-block"
-              >
-                <div className="request-callback-icon-black" />
-                <div className="text-block-829 master-class-text-color text-color">
-                  Request a Callback
-                </div>
-              </a>
-            </div> */}
           </div>
         </section>
         <section id="Hiring-companies-section" className="hiring-companies-section">
@@ -771,22 +669,11 @@ function Home() {
                   <h2 className="trainers-heading-2">
                     Our Alumni & Their Success Stories
                   </h2>
-                  <div>
+                  {/* <div>
                     <div className="div-block-1859">
                       <div className="div-block-995">
                         <div className="div-block-1860">
                           <div className="masterclasses-div-2">
-                            {/* <div className="trainers-text-div-2">
-                              <div className="text-block-819">
-                                <span className="text-span-93">Trainers</span> are
-                                alumni of IITs and Top MNCs
-                                <br />
-                              </div>
-                              <div className="text-block-283-copy-2">
-                                TRAINERS are alumni of IITs and Top MNCs
-                                <br />
-                              </div>
-                            </div> */}
                             <br/>
                             <div className="trainers-grid-div-2">
                               <div className="w-layout-grid grid-107">
@@ -832,10 +719,7 @@ function Home() {
                           <div className="domain-experts-div---desktop-hidden-2">
                             <div className="domain-experts-text-div-2">
                               <div className="div-block-846--mobile-hidden-2" />
-                              {/* <div className="text-block-819">
-                                <span className="text-span-93">Career Coaches</span>{" "}
-                                help you land your first job
-                              </div> */}
+                              
                             </div>
                             <div className="domain-experts-grid-div-2">
                               <div className="w-layout-grid grid-107">
@@ -875,19 +759,12 @@ function Home() {
                                   </div>
                                 </div>
                               </div>
-                              {/* <div className="text-block-287---mobile-hidden---domain-2">
-                                and more...
-                              </div> */}
+                              
                             </div>
                           </div>
                           <div className="career-coaches-div---mobile-hidden-copy">
                             <div className="career-coaches-text-div-2">
-                              {/* <div className="text-block-819">
-                                Get doubts resolved by{" "}
-                                <span className="text-span-93">
-                                  Product&nbsp;Developers
-                                </span>
-                              </div> */}
+                              
                             </div>
                             <div className="career-coaches-grid-div-2">
                               <div className="w-layout-grid grid-107">
@@ -905,7 +782,7 @@ function Home() {
                                     <div className="text-block-820">
                                     Placed at Goldman Sachs, Bangalore
                                     </div>
-                                    {/* <div className="text-block-820">IIT Guwahati</div> */}
+                                    
                                   </div>
                                 </div>
                                 <div className="div-block-1858">
@@ -922,11 +799,11 @@ function Home() {
                                     <div className="text-block-820">
                                     Placed at IIFL, Banaglore
                                     </div>
-                                    {/* <div className="text-block-820">BIT Mesra</div> */}
+                                    
                                   </div>
                                 </div>
                               </div>
-                              {/* <div className="text-block-287-copy-4">and more...</div> */}
+                              
                             </div>
                           </div>
                         </div>
@@ -940,7 +817,7 @@ function Home() {
                             />
                           </div>
                           <div className="div-block-1861">
-                            {/* <div className="text-block-600">Student at</div> */}
+                           
                             <div className="ccbp-image w-embed">
                               <img
                                 src="https://eduzi.s3.amazonaws.com/Screenshot+2024-05-26+174209.png"
@@ -1054,28 +931,18 @@ function Home() {
                                   </div>
                                 </div>
                               </div>
-                              {/* <div className="text-block-287-copy-3">and more...</div> */}
+                              
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
+                  <PlacedStudents/>
                 </div>
               </div>
             </div>
-            {/* <div className="div-block-1831974 top-padding">
-              <a
-                id="request-call-back-home-top-notch-team"
-                href="https://forms.ccbp.in/public/form/talk-to-career-expert"
-                className="request-call-back-home track-button request-a-callback-segment w-inline-block"
-              >
-                <div className="request-callback-icon" />
-                <div className="text-block-829 white-text-color">
-                  Request a Callback
-                </div>
-              </a>
-            </div> */}
+            
           </div>
         </section>
         <br/>

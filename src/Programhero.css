@@ -1,0 +1,71 @@
+/* HeroSection.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden; /* Prevent horizontal overflow */
+  }
+  
+  .hero-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%; /* Ensure the container spans the full viewport width */
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    text-align: center;
+    padding: 0 20px;
+    overflow: hidden; /* Ensure no child elements cause overflow */
+  }
+  
+  .hero-content {
+    max-width: 800px;
+    padding: 0 10px; /* Add some padding to avoid any content touching the edges */
+  }
+  
+  .hero-title {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    animation: fadeIn 2s ease-in;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 40px;
+    animation: fadeIn 3s ease-in;
+  }
+  
+  .hero-button {
+    padding: 15px 30px;
+    font-size: 1rem;
+    color: #2575fc;
+    background: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.3s;
+    animation: fadeIn 4s ease-in;
+  }
+  
+  .hero-button:hover {
+    background: #f0f0f0;
+    transform: scale(1.05);
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

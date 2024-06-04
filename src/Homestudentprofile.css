@@ -1,0 +1,124 @@
+/* AboutUs.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    background-color: #02172d; /* Dark background color */
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+
+.about-us-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    color: #333;
+    line-height: 1.6;
+    background: #fff; /* White background for the content */
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+.about-us-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.about-us-header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #060671;
+    animation: slideInFromLeft 1s ease-in-out;
+}
+
+.about-us-header p {
+    font-size: 1.2em;
+    color: #777;
+    animation: slideInFromRight 1s ease-in-out;
+}
+
+.about-us-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+}
+
+.about-us-text {
+    flex: 1;
+    min-width: 300px;
+}
+
+.about-us-image {
+    flex: 1;
+    min-width: 300px;
+    text-align: center;
+}
+
+.about-us-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.about-us-image img:hover {
+    transform: scale(1.05);
+}
+
+.about-us-section {
+    background-color: rgba(70, 130, 180, 0.2); /* Light blue with transparency */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    border-left: 5px solid #4682B4; /* Blue border on the left */
+    transition: background-color 0.3s ease-in-out;
+}
+
+.about-us-section:hover {
+    background-color: rgba(70, 130, 180, 0.4); /* Slightly darker blue on hover */
+}
+
+.about-us-section h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+    color: #060671; /* Blue color for headings */
+    animation: slideInFromLeft 1s ease-in-out;
+}
+
+.about-us-section p {
+    font-size: 1em;
+    color: #666;
+    animation: slideInFromRight 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideInFromLeft {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideInFromRight {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}

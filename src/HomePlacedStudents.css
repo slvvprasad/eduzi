@@ -1,0 +1,80 @@
+body {
+    background-color: #02172d; /* Dark background color */
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+  }
+  
+  .about-us-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    color: #333;
+    line-height: 1.6;
+    background: #fff; /* White background for the content */
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1.5s ease-in-out;
+  }
+  
+  .students-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 cards per row */
+    gap: 20px;
+    padding: 20px;
+    justify-items: center;
+  }
+  
+  .student-card {
+    background-color: rgba(70, 130, 180, 0.2);
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: center;
+    transition: transform 0.2s;
+  }
+  
+  .student-card:hover {
+    transform: translateY(-10px);
+    background-color: rgba(70, 130, 180, 0.4);
+  }
+  
+  .student-image {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+  
+  .student-name {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 10px 0 5px;
+  }
+  
+  .student-company {
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 1024px) {
+    .students-container {
+      grid-template-columns: repeat(2, 1fr); /* 2 cards per row */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .students-container {
+      grid-template-columns: repeat(2, 1fr); /* 2 cards per row */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .students-container {
+      grid-template-columns: 1fr; /* 1 card per row */
+    }
+  }
+  

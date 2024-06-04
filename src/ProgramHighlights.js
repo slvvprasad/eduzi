@@ -1,8 +1,8 @@
-// AboutUs.js
-import React from 'react';
-import './Checkpage.css';
 
-const Checkpage = () => {
+import React from 'react';
+import './ProgramHighlights.css';
+
+const ProgramHighlights = () => {
     
 
     return (
@@ -180,4 +180,4 @@ const Checkpage = () => {
     );
 }
 
-export default Checkpage;
+export default ProgramHighlights;

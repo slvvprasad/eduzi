@@ -2,6 +2,10 @@ import './App.css';
 import FaqSection from './FaqSection';
 import Educators from './Educators';
 import Navbar from './Navbar';
+import ProgramHighlights from './ProgramHighlights';
+// import './Creditanalyst.css';
+import Programhero from './Programhero';
+import Programbrochure from './Programbrochure';
 
 function Creditanalyst(){
 
@@ -224,6 +228,7 @@ function Creditanalyst(){
         </div>
       </div> */}
       <Navbar/>
+      {/* <Programhero/> */}
       <div className="intensive-hero-section-div int-tce">
         <div className="new-track-div-copy">
           <div className="div-block-1831980521447265">
@@ -238,30 +243,33 @@ function Creditanalyst(){
         <div className="div-block-183198052219">
           <div className="div-block-183198052157">
             <div className="div-block-1831980521254">
-              <div className="div-block-183198052212">
-                <h1 className="heading-sathosi-font">
-                Welcome to Eduzi Academy
-                </h1>
-                <div className="div-block-183198052190">
-                  <div
-                    data-w-id="15223fc5-faed-1013-6a91-6d1ea862ec96"
-                    className="job-tracks-div"
-                  >
-                    <div className="text-block-9412881915">
-                    CREDIT ANALYST PROGRAM
-                    </div>
-                    <div className="text-block-9412881915">Data Analyst</div>
-                    <div className="text-block-9412881915">QA Engineer</div>
-                    <div className="text-block-9412881915">
-                      Software Developer
-                    </div>
-                    <div className="text-block-9412881915">
-                      Full Stack Developer
-                    </div>
-                  </div>
-                </div>
-                <div className="fullstack-developer-underline" />
-              </div>
+            <div className="div-block-183198052212" style={{ position: 'relative' }}>
+      <h1 className="heading-sathosi-font">
+        Welcome to Eduzi Academy
+      </h1>
+      <div className="div-block-183198052190">
+        <div
+          data-w-id="15223fc5-faed-1013-6a91-6d1ea862ec96"
+          className="job-tracks-div"
+        >
+          <div className="text-block-9412881915">
+            CREDIT ANALYST PROGRAM
+          </div>
+        </div>
+      </div>
+      <div className="fullstack-developer-underline" />
+      <img 
+        src="https://www.iaml.com.pk/static/media/Investment.5d2725fe37379271af23.gif" // Replace with your image URL
+        alt="Eduzi Academy"
+        style={{
+          position: 'absolute',
+          right: -600,
+          top: -150,
+          width: '500px', // Adjust the size as needed
+          height: 'auto'
+        }}
+      />
+    </div>
               <div className="intensive-description-div">
                 <div className="div-block-183198052209">
                   <div className="w-layout-grid grid-8652">
@@ -343,9 +351,7 @@ function Creditanalyst(){
                       <div className="div-block-1831980521447046">
                         <div className="div-block-183198052144700">
                           <div className="text-block-9412882406">Mode</div>
-                          {/* <div className="div-block-1831980521447270">
-                            <div className="text-block-9412882482">NEW</div>
-                          </div> */}
+                         
                         </div>
                         <div className="text-block-9412882405">
                         Live Sessions in Online Mode
@@ -386,67 +392,7 @@ function Creditanalyst(){
                     data-infinite="true"
                   >
                     <div className="w-slider-mask">
-                      {/* <div className="hs-testimonials-slide w-slide">
-                        <div className="hs-testimonials-slide-card1">
-                          <div className="hs-testimonials-card-div-jfs">
-                            <div className="hs-testimonials-card-txt">
-                              
-                            </div>
-                            <div>Our Alumni works att</div>
-                          </div>
-                          <div className="hs-testimonials-card-companies-image w-embed">
-                            <img
-                              src="https://eduzi.s3.amazonaws.com/alumni_working_companies.png"
-                              alt=""
-                              width="800px"
-                            />
-                          </div>
-                        </div>
-                      </div> */}
-                      {/* <div className="hs-testimonials-slide w-slide">
-                        <div className="hs-testimonials-slide-card2">
-                          <div className="hs-testimonials-heading-container-2">
-                            <div className="hs-testimonials-quote-image w-embed">
-                              <img
-                                src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/left-quote+1.png"
-                                alt=""
-                                loading="lazy"
-                              />
-                            </div>
-                            <div>
-                              Mechanical Engineering to <br />
-                              ₹9 LPA Software Job
-                            </div>
-                          </div>
-                          <div className="hs-testimonials-content-div">
-                            <div className="hs-testimonials-profile-details-container">
-                              <div className="hs-testimonials-profile-image w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/surya.png"
-                                  alt=""
-                                  loading="lazy"
-                                />
-                              </div>
-                              <div className="hs-testimonials-profile-details-div-2">
-                                <div className="hs-testimonials-learner-name-2">
-                                  Surya Vamsi
-                                </div>
-                                <div>Mechanical Engineering</div>
-                              </div>
-                            </div>
-                            <div className="hs-testimonials-company-logo">
-                              <div className="w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/asecent-academy-company.png"
-                                  alt=""
-                                  width="100px"
-                                  loading="lazy"
-                                />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div> */}
+                      
                       <div className="hs-testimonials-slide w-slide">
                         <div className="hs-testimonials-slide-card3">
                           <div className="hs-testimonials-doubts-image-div">
@@ -461,160 +407,27 @@ function Creditanalyst(){
                           </div>
                           <div className="hs-testimonials-doubts-content-div-2">
                             <div className="hs-testimonials-doubts-heading-2">
-                            3 months Online Live Classes + 3 months of placement track
+                           Get Our Brouchure By filling this form <br/><br/>
+                           <a href="#form"
+                      style={{ 
+      backgroundColor: '#007bff', 
+      color: '#fff', 
+      padding: '10px 20px', 
+      border: 'none', 
+      borderRadius: '5px', 
+      fontSize: '16px', 
+      cursor: 'pointer',
+      boxShadow: '0 4px 6px rgba(0, 123, 255, 0.1), 0 1px 3px rgba(0, 123, 255, 0.08)',
+      transition: 'box-shadow 0.3s, background-color 0.3s',
+      }}>
+      Fill Now
+    </a>
                             </div>
-                            {/* <div>1500+ Mentors to help you.</div> */}
+                           
                           </div>
                         </div>
                       </div>
-                      {/* <div className="hs-testimonials-slide w-slide">
-                        <div className="hs-testimonials-slide-card2">
-                          <div className="hs-testimonials-heading-container-2">
-                            <div className="hs-testimonials-quote-image w-embed">
-                              <img
-                                src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/left-quote+1.png"
-                                alt=""
-                                loading="lazy"
-                              />
-                            </div>
-                            <div>
-                              Mock interviews by the placement team&nbsp;helped
-                              me improve.
-                            </div>
-                          </div>
-                          <div className="hs-testimonials-content-div">
-                            <div className="hs-testimonials-profile-details-container">
-                              <div className="hs-testimonials-profile-image w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/bhargavi.png"
-                                  alt=""
-                                  loading="lazy"
-                                />
-                              </div>
-                              <div className="hs-testimonials-profile-details-div-2">
-                                <div className="hs-testimonials-learner-name-2">
-                                  Bhargavi
-                                </div>
-                                <div>CSE, JNTU</div>
-                              </div>
-                            </div>
-                            <div className="hs-testimonials-company-logo">
-                              <div className="w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/systech.png"
-                                  alt=""
-                                  width="86px"
-                                  loading="lazy"
-                                />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div> */}
-                      {/* <div className="hs-testimonials-slide w-slide">
-                        <div className="hs-testimonials-slide-card3">
-                          <div className="hs-testimonials-doubts-image-div _2nd-image">
-                            <div className="w-embed">
-                              <img
-                                src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/online-labs-24-7.png"
-                                alt=""
-                                loading="lazy"
-                              />
-                            </div>
-                          </div>
-                          <div className="hs-testimonials-doubts-content-div-2">
-                            <div className="hs-testimonials-doubts-heading-2">
-                              24/7 Online Labs Accessible
-                            </div>
-                            <div> for hands-on practice</div>
-                          </div>
-                        </div>
-                      </div> */}
-                      {/* <div className="hs-testimonials-slide w-slide">
-                        <div className="hs-testimonials-slide-card2">
-                          <div className="hs-testimonials-heading-container-2">
-                            <div className="hs-testimonials-quote-image w-embed">
-                              <img
-                                src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/left-quote+1.png"
-                                alt=""
-                                loading="lazy"
-                              />
-                            </div>
-                            <div>B.Sc Graduate to a Software Engineer</div>
-                          </div>
-                          <div className="hs-testimonials-content-div">
-                            <div className="hs-testimonials-profile-details-container">
-                              <div className="hs-testimonials-profile-image w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/divya.png"
-                                  alt=""
-                                  loading="lazy"
-                                />
-                              </div>
-                              <div className="hs-testimonials-profile-details-div-2">
-                                <div className="hs-testimonials-learner-name-2">
-                                  Devi Vyshnavi
-                                </div>
-                                <div>Adikavi Nannaya University</div>
-                              </div>
-                            </div>
-                            <div className="hs-testimonials-company-logo">
-                              <div className="w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/NeoSoft.png"
-                                  alt=""
-                                  width="86px"
-                                  loading="lazy"
-                                />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div> */}
-                      {/* <div className="hs-testimonials-slide w-slide">
-                        <div className="hs-testimonials-slide-card2">
-                          <div className="hs-testimonials-heading-container-2">
-                            <div className="hs-testimonials-quote-image w-embed">
-                              <img
-                                src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/left-quote+1.png"
-                                alt=""
-                                loading="lazy"
-                              />
-                            </div>
-                            <div>
-                              From being a Delivery Boy in Swiggy to Programmer
-                              Analyst in an MNC!
-                            </div>
-                          </div>
-                          <div className="hs-testimonials-content-div">
-                            <div className="hs-testimonials-profile-details-container">
-                              <div className="hs-testimonials-profile-image w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/sai.png"
-                                  alt=""
-                                  loading="lazy"
-                                />
-                              </div>
-                              <div className="hs-testimonials-profile-details-div-2">
-                                <div className="hs-testimonials-learner-name-2">
-                                  Venkat Sai{" "}
-                                </div>
-                                <div>Mechanical Engineering</div>
-                              </div>
-                            </div>
-                            <div className="hs-testimonials-company-logo">
-                              <div className="w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/exl.png"
-                                  alt=""
-                                  width="86px"
-                                  loading="lazy"
-                                />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div> */}
+                      
                     </div>
                     <div className="hs-testimonials-left-arrow w-slider-arrow-left" />
                     <div className="hs-testimonials-right-arrow w-slider-arrow-right" />
@@ -637,32 +450,7 @@ function Creditanalyst(){
           </div>
         </div>
       </div>
-      <div id="hero-section" className="div-block-1831980521252">
-        {/* <div className="div-block-1831980521255">
-          <div className="div-block-1747">
-            <div className="div-block-183198052210">
-              <div className="text-block-9412881914">
-                Book a Live Demo
-                <br />
-                For&nbsp;Free !
-              </div>
-              <div className="script-container-underlne" />
-            </div>
-            <div className="html-embed-41933 w-embed">
-              <img
-                src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/demo-embed-form-person-image.png"
-                alt=""
-                loading="lazy"
-              />
-            </div>
-          </div>
-          <div className="div-block-1831980521436 mobile-fee-increases-strip">
-            <div className="text-block-94128877 orange">
-              Fee increases from March 31st
-            </div>
-          </div>
-          <div id="book-a-free-demo-intensive" className="scholarship-form" />
-        </div> */}
+      {/* <div id="hero-section" className="div-block-1831980521252">
         <div className="div-block-1831980521255">
       <div className="div-block-1747">
         <div className="div-block-183198052210">
@@ -681,11 +469,7 @@ function Creditanalyst(){
           />
         </div>
       </div>
-      {/* <div className="div-block-1831980521436 mobile-fee-increases-strip">
-        <div className="text-block-94128877 orange">
-          Fee increases from March 31st
-        </div>
-      </div> */}
+      
       <div id="book-a-free-demo-intensive" className="scholarship-form">
         <form style={{
           maxWidth: '600px',
@@ -776,7 +560,7 @@ function Creditanalyst(){
             />
           </div>
         </div>
-      </div>
+      </div> */}
       <div className="w-embed">
         <style
           dangerouslySetInnerHTML={{
@@ -787,6 +571,7 @@ function Creditanalyst(){
       </div>
     </div>
     <div id="course-details" className="div-block-183198052221">
+    {/* <Programhero/> */}
       <div className="div-block-183198052209 desktop">
         <div className="w-layout-grid grid-8652">
           <div
@@ -882,14 +667,15 @@ function Creditanalyst(){
     <div className="frame-1000004064">
       <div className="frame-1000004069">
         <div className="div-block-1831980521447267">
-          <div className="div-block-1831980521447268">
+          {/* <div className="div-block-1831980521447268">
             <div className="text-block-9412882480">NEW</div>
-          </div>
+          </div> */}
         </div>
         <div className="we-ve-worked-with-th-3">
           Credit Analyst Program Highlights&nbsp;to Supercharge Your Career
         </div>
-        <div className="desktop-vector">
+        <ProgramHighlights/>
+        {/* <div className="desktop-vector">
           <div className="vectors-wrapper-163 w-embed">
             <img
               src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/2.0-upgrades-underline-vector.png"
@@ -898,8 +684,8 @@ function Creditanalyst(){
               loading="lazy"
             />
           </div>
-        </div>
-        <div className="mobile-vector">
+        </div> */}
+        {/* <div className="mobile-vector">
           <div className="vectors-wrapper-163 w-embed">
             <img
               src="https://nxtwave.imgix.net/ccbp-website/intensive/3.0-upgrades-mobile-underline.png"
@@ -908,9 +694,9 @@ function Creditanalyst(){
               loading="lazy"
             />
           </div>
-        </div>
+        </div> */}
       </div>
-      <div id="upgradesContainer" className="all-upgrades-container">
+      {/* <div id="upgradesContainer" className="all-upgrades-container">
         <div id="upgradesContainer1" className="upgrades-container-1">
           <div className="frame-1000004066">
             <div className="frame-1000004068">
@@ -1064,7 +850,7 @@ function Creditanalyst(){
         <div id="upgradesContainer2" className="upgrades-container-2">
           
         </div>
-      </div>
+      </div> */}
     </div>
     {/* <div
       id="show-more-intensive-3.o-upgrades"
@@ -1148,9 +934,9 @@ function Creditanalyst(){
                   loading="lazy"
                 />
               </div>
-              <h2 className="heading-sathosi-font font-size-48 width desktop-heading" style={{ textAlign: 'left' }}>
+              {/* <h2 className="heading-sathosi-font font-size-48 width desktop-heading" style={{ textAlign: 'left' }}>
               Upon successful completion,all the eligible candidates would be given assured placement support by Eduzi.
-              </h2>
+              </h2> */}
             </div>
             <div className="collection-list-wrapper-4 show w-dyn-list">
               <div role="list" className="w-dyn-items">
@@ -5585,305 +5371,10 @@ function Creditanalyst(){
           data-duration-out={100}
           className="w-tabs"
         >
-          {/* <div className="tabs-menu-19 w-tab-menu">
-            <a
-              data-w-tab="Tab 1"
-              id="postpaid-tab-pricing"
-              className="postpaid track-class w-inline-block w-tab-link w--current"
-            >
-              <div className="text-block-9412881919">Post-paid</div>
-            </a>
-            <a
-              data-w-tab="Tab 2"
-              id="prepaid-tab-pricing"
-              className="prepaid track-class w-inline-block w-tab-link"
-            >
-              <div className="text-block-9412881920">Pre-paid</div>
-            </a>
-          </div> */}
           <div className="tabs-content-26 w-tab-content">
             <div data-w-tab="Tab 1" className="w-tab-pane w--tab-active">
               <div className="div-block-1831980521390">
                 <div className="text-block-941248788">What’s included ?</div>
-                {/* <div className="div-block-1831980521404">
-                  <div>
-                    <div className="pricing-logos-container">
-                      <div className="w-embed">
-                        <style
-                          dangerouslySetInnerHTML={{
-                            __html:
-                              "\n                                                    .pricing-logos-post-paid {\n                                                        height: 48px;\n                                                        width: 48px;\n                                                    }\n\n                                                    @media screen and (max-width:478px) {\n                                                        .pricing-logos-post-paid {\n                                                            height: 32px;\n                                                            width: 32px;\n                                                        }\n                                                    }\n                                                "
-                          }}
-                        />
-                        <img
-                          className="pricing-logos-post-paid"
-                          src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/pricing-section/pricing-section-iot.svg"
-                        />
-                      </div>
-                      <div className="text-block-941248789-copy">
-                        Fundamentals of IT
-                      </div>
-                    </div>
-                    <div className="pricing-list-items">
-                      <div className="pricing-logos-list muliple-job-tracks">
-                        <div className="w-embed">
-                          <img
-                            className="pricing-logos-post-paid"
-                            src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/pricing-section/pricing-section-job-track.svg"
-                          />
-                        </div>
-                        <div>
-                          <div className="text-block-941248789-copy top-padding">
-                            Multiple Job Tracks
-                          </div>
-                          <div className="div-block-1831980521411">
-                            <div className="div-block-183198052008">
-                              <div className="w-embed">
-                                <img
-                                  width="36px"
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/java-fullstack.png"
-                                />
-                              </div>
-                              <div className="text-block-9412881928">
-                                Java Full Stack
-                              </div>
-                            </div>
-                            <div className="div-block-183198052008">
-                              <div className="w-embed">
-                                <img
-                                  width="36px"
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/mern-full-stack.svg"
-                                />
-                              </div>
-                              <div className="text-block-9412881928">
-                                MERN Full Stack
-                              </div>
-                            </div>
-                            <div className="div-block-183198052008">
-                              <div className="w-embed">
-                                <img
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/data-analytics.svg"
-                                  width="36px"
-                                  height="36px"
-                                />
-                              </div>
-                              <div className="text-block-9412881928">
-                                Data Analytics
-                              </div>
-                            </div>
-                            <div className="div-block-183198052008">
-                              <div className="w-embed">
-                                <img
-                                  width="36px"
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/automation-testing.svg"
-                                />
-                              </div>
-                              <div className="text-block-9412881928">
-                                QA / Automation Testing
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="pricing-logos-container">
-                      <div className="w-embed">
-                        <style
-                          dangerouslySetInnerHTML={{
-                            __html:
-                              "\n                                                    .pricing-logos {\n                                                        height: 24px;\n                                                        width: 24px;\n                                                    }\n                                                "
-                          }}
-                        />
-                        <img
-                          className="pricing-logos-post-paid"
-                          src="
-https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/pricing-section/pricing-section-hours.svg"
-                        />
-                      </div>
-                      <div className="text-block-941248789-copy">
-                        3 Hours classes and 3 Hours Labs Everyday
-                      </div>
-                    </div>
-                    <div className="pricing-logos-container">
-                      <div>
-                        <div className="html-embed-41938 w-embed">
-                          <img
-                            className="pricing-logos-post-paid"
-                            src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/pricing-section/pricing-section-trainers.svg"
-                            loading="lazy"
-                          />
-                        </div>
-                      </div>
-                      <div className="text-block-941248789-copy">
-                        Trainers: IIT alumni &amp; Top MNCs like Amazon,
-                        Microsoft
-                      </div>
-                    </div>
-                  </div>
-                  <div>
-                    <div className="pricing-logos-container">
-                      <div className="w-embed">
-                        <img
-                          className="pricing-logos-post-paid"
-                          src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/pricing-section/pricing-section-unlimited.svg"
-                        />
-                      </div>
-                      <div className="text-block-941248789-copy">
-                        Unlimited opportunities from
-                        a&nbsp;pool&nbsp;of&nbsp;3000+ companies
-                      </div>
-                    </div>
-                    <div className="pricing-list-items">
-                      <div className="pricing-logos-list">
-                        <div className="w-embed">
-                          <img
-                            className="pricing-logos-post-paid"
-                            src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/pricing-section/pricing-section-placements.svg"
-                          />
-                        </div>
-                        <div className="text-block-941248789-copy">
-                          Placement Support
-                        </div>
-                      </div>
-                      <ul role="list" className="list-301">
-                        <li>
-                          <div>Aptitude Training</div>
-                        </li>
-                        <li>
-                          <div>Soft Skills Training</div>
-                        </li>
-                        <li>
-                          <div>Resume Preparation</div>
-                        </li>
-                        <li>
-                          <div>AI-Powered Mock Interviews</div>
-                        </li>
-                        <li>
-                          <div>Mock Interviews by Tech and HR Panels</div>
-                        </li>
-                        <li>
-                          <div>300+ Senior Interview Experiences</div>
-                        </li>
-                        <li>
-                          <div>Scheduling Interviews</div>
-                        </li>
-                        <li>
-                          <div>Access to Placement Portal</div>
-                        </li>
-                        <li>
-                          <div>Mega Offline Placement Drives</div>
-                        </li>
-                        <li>
-                          <div>
-                            Negotiation with companies for higher salaries
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div>
-                    <div className="pricing-logos-container">
-                      <div className="w-embed">
-                        <img
-                          className="pricing-logos-post-paid"
-                          src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/pricing-section/pricing-section-doubts.svg"
-                        />
-                      </div>
-                      <div className="text-block-941248789-copy">
-                        9AM - 9PM Doubt Clarification.
-                        <br />
-                        1500+ Mentors to help you.
-                      </div>
-                    </div>
-                    <div className="pricing-logos-container">
-                      <div className="w-embed">
-                        <img
-                          className="pricing-logos-post-paid"
-                          src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/pricing-section/pricing-section-projects.svg"
-                        />
-                      </div>
-                      <div className="text-block-941248789-copy">
-                        10+ Real-time Projects for strong resume
-                      </div>
-                    </div>
-                    <div className="pricing-logos-container">
-                      <div className="w-embed">
-                        <img
-                          className="pricing-logos-post-paid"
-                          src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/nxtwave-intensive-2.0/pricing-section/pricing-section-online.svg"
-                        />
-                      </div>
-                      <div className="text-block-941248789-copy top-padding">
-                        24/7 Online Lab Access
-                      </div>
-                    </div>
-                    <div id="scrap-btn-py" className="pricing-logos-container">
-                      <div>
-                        <div
-                          data-delay={0}
-                          data-hover="true"
-                          className="tooltip-dropdown w-dropdown"
-                        >
-                          <div
-                            id="nxtwave-program-postpaid-tab-pricing"
-                            className="tooltip-content track-button w-dropdown-toggle"
-                          >
-                            <div className="tooltip-text">
-                              <div className="logo-height-2 w-embed">
-                                <img
-                                  className="pricing-logos-post-paid"
-                                  src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/blue-bag.svg"
-                                />
-                              </div>
-                              <div className="text-block-941248789-copy light-red _475569">
-                                NxtWave Intensive is not a Job <br />
-                                Guarantee Program.
-                              </div>
-                              <div className="image-812882270 w-embed">
-                                <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/intensive/i-info.svg" />
-                              </div>
-                            </div>
-                          </div>
-                          <nav className="tooltip-anchor top w-dropdown-list">
-                            <div data-cy="step5" className="tooltip-wrapper">
-                              <div className="tooltip-container">
-                                <div className="tooltip-title">
-                                  1700+ companies hired thousands of our
-                                  students in the last 2 years. Every month,
-                                  100s of companies reach out to NxtWave to hire
-                                  our students. NxtWave's placement support has
-                                  only become better and stronger.
-                                </div>
-                                <div className="tooltip-title">
-                                  NxtWave will help you build industry-relevant
-                                  skills and support you by providing mock
-                                  interviews, interview experiences of senior
-                                  students, aptitude and soft-skills training,
-                                  resume preparation, placement tests, etc.
-                                </div>
-                                <div className="tooltip-title last">
-                                  This disclaimer is to make it clear to a few
-                                  students who might think that they can get a
-                                  job by just joining the course without
-                                  learning efforts.
-                                </div>
-                              </div>
-                              <div className="tooltip-diamond bottom" />
-                            </div>
-                            <div className="w-embed">
-                              <style
-                                dangerouslySetInnerHTML={{
-                                  __html:
-                                    "\n                                                                .tooltip-anchor {\n                                                                    display: none;\n                                                                }\n                                                            "
-                                }}
-                              />
-                            </div>
-                          </nav>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div> */}
                 <div className="text-block-941248789-copy" style={{ textAlign: 'justify' }}>
                 UPSKILLING TRACK -
 39,999/-
@@ -5902,12 +5393,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
                           <div className="discounted-program-price">
                            Total
                           </div>
-                          <img
-                            loading="lazy"
-                            src="https://assets-global.website-files.com/636e65bc652392383abfa5ea/63bbe3e2a5f15f101e88fb0b_strike-image.png"
-                            alt=""
-                            className="strike-3-copy"
-                          />
+                          
                         </div>
                         <div className="program-original-price">₹39,999/-</div>
                         <div className="program-pricing-term">
@@ -6156,6 +5642,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
       </div>
     </div>
   </div>
+  
   {/* <div id="faqs" data-sectionid="sections" className="faq-section">
     <div className="faq-main-container">
       <h2 className="faq-main-heading">Frequently Asked Questions</h2>
@@ -7032,6 +6519,9 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
   </div> */}
   <div id="faqs" data-sectionid="sections" className="faq-section">
   <FaqSection />
+  </div>
+  <div id="form" data-sectionid="sections">
+    <Programbrochure/>
   </div>
   {/* <section
     id="nxtwave-learners-experience"

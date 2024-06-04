@@ -4,6 +4,8 @@ import './App.css';
 import Creditanalyst from './Creditanalyst';
 import {BrowserRouter,Routes,Route } from 'react-router-dom';
 import Home from './Home';
+import Homehero from './Homehero';
+// import PlacedStudents from './PlacedStudents';
 // import Checkpage from './Checkpage';
 
 
@@ -11,7 +13,9 @@ import Home from './Home';
 function App() {
   return (
     <>
+    {/* <Homehero/> */}
    {/* <Checkpage/> */}
+   {/* <PlacedStudents/> */}
     {/* <Home/> */}
     <BrowserRouter>
           <Routes>
