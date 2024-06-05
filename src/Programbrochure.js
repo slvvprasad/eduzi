@@ -114,13 +114,13 @@ function App() {
 
               <div className="d-flex flex-row align-items-center mb-4">
                 <MDBIcon fas icon="phone me-3" size='lg'style={{ fontSize: '24px' }}/>
-                <MDBInput label='Whatsapp number' id='form3' type='password'style={{ fontSize: '24px' }}/>
+                <MDBInput label='Whatsapp number' id='form3' type='tel'style={{ fontSize: '24px' }}/>
               </div>
 
-              {/* <div className="d-flex flex-row align-items-center mb-4">
-                <MDBIcon fas icon="key me-3" size='lg'/>
-                <MDBInput label='Repeat your password' id='form4' type='password'/>
-              </div> */}
+              <div className="d-flex flex-row align-items-center mb-4">
+                <MDBIcon fas icon="message me-3" size='lg'style={{ fontSize: '24px' }}/>
+                <MDBInput label='Message' id='form4' type='text'style={{ fontSize: '24px' }}/>
+              </div>
 
               {/* <div className='mb-4'>
                 <MDBCheckbox name='flexCheck' value='' id='flexCheckDefault' label='Subscribe to our newsletter' />

@@ -90,7 +90,7 @@ li {
   }
   .nav__menu {
     position: fixed;
-    background: teal;
+    background: rgb(30, 28, 58);
     flex-direction: column;
     top: 10vh;
     width: 50%;
@@ -99,6 +99,9 @@ li {
     transform: translateX(100%);
     transition: 0.5s ease;
     z-index: 1000; /* Add this line */
+  }
+  .nav__link {
+    color: #fff;
   }
 }
 

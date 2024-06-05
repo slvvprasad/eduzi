@@ -167,7 +167,7 @@ li {
   }
   .nav__menu {
     position: fixed;
-    background: teal;
+    background: yellow;
     flex-direction: column;
     top: 10vh;
     width: 50%;
