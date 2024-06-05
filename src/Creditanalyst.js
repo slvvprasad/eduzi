@@ -6520,7 +6520,7 @@ Get placed in top Banks/MNC's via our hiring partners and Pay 8% of your annual 
   <div id="faqs" data-sectionid="sections" className="faq-section">
   <FaqSection />
   </div>
-  <div id="form" data-sectionid="sections">
+  <div id="form"  className="irc-certificate-section">
     <Programbrochure/>
   </div>
   {/* <section
